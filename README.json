@@ -1,0 +1,1016 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Catalogs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rustlang-cn/rust-weekly: Rust 语言周刊，每周五发布，精选过去一周的技术文章、业界新闻、开源项目和 Rust 语言动态 (github.com)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-07-15T08:22:55Z",
+            "owner": "rustcn-org",
+            "repo": "rust-weekly",
+            "stars": 809
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yunwei37/blockchain-rust: blockchain_go in rust: A simplified blockchain implementation in rust for leaning / 用 rust 从零开始构建区块链(Bitcoin) (github.com)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-06-20T12:48:59Z",
+            "owner": "yunwei37",
+            "repo": "blockchain-rust",
+            "stars": 168
+          }
+        }
+      ],
+      "title": "Article"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Book"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rust 语言圣经中文版"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rust 程序设计语言中文版"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rust 语言备忘清单 (简体中文)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "通过例子学 Rust 中文版"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "谷歌开源的 Rust 教程 (Comprehensive Rust 🦀)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rust 语言之旅"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "RustPrimer"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rust 秘典中文版"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rust 参考手册 中文版"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rust Cookbook 中文版"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rusty Book( 锈书 )"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rust 异步编程指南"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rust 语言实战"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rust 算法题解"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rust 算法书（RustBook）"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rust 设计模式 中文版"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rust API 编写指南 中文版"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rust 性能手册（The Rust Performance Book）"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rust 宏小册(tlborm)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "嵌入式 Rust 编程"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "TheAlgorithms(Rust 算法例子)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rust RFC Book (提案书)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rust Unstable Book (不稳定特性书)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rust 版本指南"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rust 标准库手册中文版"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "inside-rust-std-library (标准库手册帮助文档)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Cargo 中文文档"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rust 版 Vulkan 教程（图形）"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "DevTools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "IDE"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Cargo 命令"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "cargo-edit"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "cargo-watch"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Framework"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "GUI"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tauri"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "egui"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "fltk-rs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "iced"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "xilem"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "⛔️ druid"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Dioxus"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Vizia"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "slint"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "TUI"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ratatui"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "⛔️ tui-rs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "CLI"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "commander"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "游戏开发"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Bevy"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "tetra"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "amethyst"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "异步运行时"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tokio"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "前端相关"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Yew"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Deno"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SWC"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Parcel"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rome"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "napi-rs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Lightning CSS"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "WebAssembly"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "wasmtime"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "wasmer"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "WasmEdge"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "WASI"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "网络"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "libp2p"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "rathole"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Crust"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "服务端"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rocket"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Actix Web"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "warp"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "poem"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "axum"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Salvo"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "序列化"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "A-JSON"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "json-rust"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "pikkr"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Serde"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "quick-xml"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "musli"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "消息队列"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📌 rocketmq-rust"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "配置解析"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "config-rs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "日期处理"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "time"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "chrono"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "httpdate"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "编码库"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "base64"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "hmac"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "jwt"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "josekit"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "sha"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "utf8mb3"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "数据库"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SeaORM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "rbatis"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "MongoDB Rust Driver"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "wither"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "redis-rs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "r2d2"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "单元测试"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "mockall"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "几何计算"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "geo"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "图片处理"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "image-rs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "音频处理"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Symphonia"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "视频处理"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ffmpeg-sys-next"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "文档处理"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "lopdf"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "pdf-rs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "calamine"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "docx-rs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Polars"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AST"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "antlr-rust"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "pandoc_ast"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "自动化"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "headless_chrome"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "enigo"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "InputBot"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "系统相关"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "screenshots"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "execute"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "机器学习"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "neuronika"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "语言绑定 (FFI)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "cbindgen"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "PyO3"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "图形渲染"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Speedy2D"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "wgpu"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "glium"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "vulkano"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "nannou"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "raqote"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "日志库"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "vector"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "RPC 库"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Dubbo-rust"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "volo"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SDL"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rust-SDL2"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "辅助工具库"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "educe"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "区块链"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Solana"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Applications"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "编辑器"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Zed"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AppFlowy"
+    },
+    {
+      "description": "一个有点像是 VSCode 的编辑器。",
+      "items": [],
+      "title": "Lapce"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Neovide"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Helix"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "终端"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Wezterm"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "远程控制"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rustdesk"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Git 工具"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "GitUI"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "内网穿透"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "bore"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "代码分析"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "cloc-rs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "数据库"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "cnosdb"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "操作系统"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Bottlerocket OS"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "编译器"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Starlight"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "搜索引擎"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "MeiliSearch"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "sonic"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "系统工具"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "RustScan"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "sniffnet"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "视频工具"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "biliup-rs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "翻译工具"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tran"
+    },
+    {
+      "description": "该组织的其他仓库均为 fork 的资源备份仓库，以防止主仓库出现意外，后面可能会使用 Github Action 进行定期拉取更新。\n如果你有自己用 Rust 开发的软件或者推荐的资源都可以提交 PR，在这里感谢所有为 Rust 生态贡献的开发者，因为只有越来越丰富的生态才能吸引更多的人来学习使用 Rust。\n最后希望 Rust 越来越牛 X。\n如果文档有用请帮帮忙点一下 star，收集整理不易，也可以关注我们公众号【Rust 编程指南】获取实时推送的文章。",
+      "items": [],
+      "title": "Note"
+    },
+    {
+      "description": "MIT 2026",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T12:26:37.414Z",
+    "original_repository": "rust-boom/rust-boom",
+    "original_repository_sha": "8719cc84e51005cf71b28aa5af802281a698a831",
+    "enhanced_repository": "enhansome/enhansome-rust-boom",
+    "enhanced_repository_description": null,
+    "title": "Awesome Rust Boom 💥 with stars"
+  }
+}
