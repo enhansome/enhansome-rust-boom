@@ -15,7 +15,7 @@
             "last_commit": "2022-07-15T08:22:55Z",
             "owner": "rustcn-org",
             "repo": "rust-weekly",
-            "stars": 809
+            "stars": 810
           }
         },
         {
@@ -38,7 +38,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T11:49:01.810Z",
+    "last_updated": "2026-08-23T11:49:09.250Z",
     "original_repository": "rust-boom/rust-boom",
     "original_repository_id": 517072951,
     "original_repository_sha": "8719cc84e51005cf71b28aa5af802281a698a831",
