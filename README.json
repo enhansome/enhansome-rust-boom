@@ -16,7 +16,8 @@
             "owner": "rustcn-org",
             "repo": "rust-weekly",
             "stars": 810
-          }
+          },
+          "first_seen": "2026-08-28T21:29:33.168Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "yunwei37",
             "repo": "blockchain-rust",
             "stars": 168
-          }
+          },
+          "first_seen": "2026-08-28T21:29:33.168Z"
         }
       ],
       "title": "Article"
@@ -53,8 +55,9 @@
                 "last_commit": "2026-08-24T07:34:23Z",
                 "owner": "sunface",
                 "repo": "rust-course",
-                "stars": 30835
-              }
+                "stars": 30840
+              },
+              "first_seen": "2026-08-28T21:29:33.168Z"
             }
           ],
           "description": "Rust 语言真的好：连续七年成为全世界最受欢迎的语言、没有 GC 也无需手动内存管理、性能比肩 C++/C 还能直接调用它们的代码、安全性极高 - 总有公司说使用 Rust 后以前的大部分 bug 都将自动消失、全世界最好的包管理工具 Cargo 等等。但...",
@@ -76,7 +79,8 @@
                 "owner": "kingfree",
                 "repo": "cheats.rs",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T21:29:33.168Z"
             }
           ],
           "description": "使用案例, 按优先顺序排列: *识别和查找指南 用于代码中遇到的构造, *发现 你可能不懂的语言部分, *了解 Rust 如果你有编程经验.",
@@ -98,7 +102,8 @@
                 "owner": "rust-lang-cn",
                 "repo": "rust-by-example-cn",
                 "stars": 1976
-              }
+              },
+              "first_seen": "2026-08-28T21:29:33.168Z"
             }
           ],
           "description": "Rust 是一门注重安全（safety）、速度（speed）和并发（concurrency）的现代系统编程语言。Rust 通过内存安全来实现以上目标，但不使用垃圾回收机制（garbage collection, GC）。《通过例子学 Rust》（Rust By Example, RBE）内容由一系列可运行的实例组成，通过这些例子阐明了各种 Rust 的概念和基本库。想获取这些例子外的更多内容，不要忘了安装 Rust 到本地并查阅官方标准库文档。另外为了满足您的好奇心，您还可以查阅本网站的源代码。",
@@ -119,8 +124,9 @@
                 "last_commit": "2026-08-25T21:23:21Z",
                 "owner": "google",
                 "repo": "comprehensive-rust",
-                "stars": 33328
-              }
+                "stars": 33331
+              },
+              "first_seen": "2026-08-28T21:29:33.168Z"
             }
           ],
           "description": "这个资源库有 Comprehensive Rust 的源代码，这是由 Android 团队开发的为期四天的 Rust 课程。该课程涵盖了 Rust 的所有方面，从基本语法到泛型和错误处理。它还包括最后一天的 Android 特定内容。",
@@ -142,7 +148,8 @@
                 "owner": "rustcc",
                 "repo": "RustPrimer",
                 "stars": 1789
-              }
+              },
+              "first_seen": "2026-08-28T21:29:33.168Z"
             }
           ],
           "description": "给初学者的 Rust 中文教程。",
@@ -164,7 +171,8 @@
                 "owner": "rust-lang-cn",
                 "repo": "nomicon-zh-Hans",
                 "stars": 704
-              }
+              },
+              "first_seen": "2026-08-28T21:29:33.168Z"
             }
           ],
           "description": "Rust 秘典挖掘了你在编写不安全 Rust 程序时需要了解的所有可怕的细节。如果你希望在编写 Rust 程序的过程中获得长久而快乐的职业生涯，你应该现在回头，忘记你曾经看过这本书。 它没有必要。 然而，如果你打算编写不安全代码——或者只是想深入了解语言的内涵——这本书包含了很多有用的信息。",
@@ -186,7 +194,8 @@
                 "owner": "rust-lang-cn",
                 "repo": "reference-cn",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T21:29:33.168Z"
             }
           ],
           "description": "本书是 Rust 编程语言的主要参考资料。它提供了三种材料:非正式地描述每个语言结构及其使用的章节。非正式描述内存模型、并发模型、运行时服务、链接模型和调试设施的章节。附录章节提供了影响设计的语言的原理和参考。",
@@ -208,7 +217,8 @@
                 "owner": "rust-lang-cn",
                 "repo": "rust-cookbook-cn",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T21:29:33.168Z"
             }
           ],
           "description": "《Rust Cookbook 中文版》是 Rust 程序设计语言（Rust 官方教程简体中文版）的简要实例示例集合：展示了在 Rust 生态系统中，使用各类 crate 来完成常见编程任务的良好实践。",
@@ -230,7 +240,8 @@
                 "owner": "rust-boom",
                 "repo": "rusty-book",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:29:33.168Z"
             }
           ],
           "description": "在 Rust 元宇宙，夸奖别人的最高境界就是 : 今天你\"锈\"了吗? 你的 Rust 代码好锈啊！而本书，就是精选了各种开源库和代码片段，帮助大家打造优\"锈\"的 Rust 项目。总之，如果有以下需求，那看锈书就对了：想要知道现在优秀的、关注度高的 Rust 项目有哪些发现一些好玩、有趣、酷炫的开源库需要寻找某个类型的库，例如，一个 HTTP 客户端或 ProtoBuffer 编码库，要求是好用、更新活跃、高质量想要寻找常用操作的代码片段，用于熟悉 Rust 或者直接复制粘贴到自己的项目中，例如文件操作、数据库操作、HTTP 请求、排序算法、正则等提示：原来的作者把书删除了，现在是备份。",
@@ -252,7 +263,8 @@
                 "owner": "rustcn-org",
                 "repo": "async-book",
                 "stars": 193
-              }
+              },
+              "first_seen": "2026-08-28T21:29:33.168Z"
             }
           ],
           "description": "该书是中文 Rust 教程 <<Rust 语言圣经>> 中的镜像专题，高质量手翻 Asynchronous Programming in Rust， 深入讲述了如何编写 Rust 高并发异步程序。",
@@ -273,8 +285,9 @@
                 "last_commit": "2026-08-24T07:35:46Z",
                 "owner": "origin-brain",
                 "repo": "rust-by-practice",
-                "stars": 14716
-              }
+                "stars": 14715
+              },
+              "first_seen": "2026-08-28T21:29:33.168Z"
             }
           ],
           "description": "Rust 语言实战 的目标是通过大量的实战练习帮助大家更好的学习和上手使用 Rust 语言。书中的练习题非常易于使用：你所需的就是在线完成练习，并让它通过编译。",
@@ -296,7 +309,8 @@
                 "owner": "rustcn-org",
                 "repo": "rust-algos",
                 "stars": 820
-              }
+              },
+              "first_seen": "2026-08-28T21:29:33.168Z"
             }
           ],
           "description": "Rust 作为一门现代化的系统编程语言，拥有与 C/C++ 类似的性能，同时又能做非常底层的性能优化，因此非常适合写算法和 leetcode。 涵盖了各种常用算法和数据结构的代码实现，以及 leetcode 题解，同时对于相关算法还提供了中文文档和注释，可以帮助大家更好、更快的学习。",
@@ -318,7 +332,8 @@
                 "owner": "QMHTMY",
                 "repo": "RustBook",
                 "stars": 2989
-              }
+              },
+              "first_seen": "2026-08-28T21:29:33.168Z"
             }
           ],
           "description": "一本 Rust 书籍，有简体和繁体版（英文版和日文版正在撰写中）。内容包括算法分析，基本数据结构和算法，外加一些实战。共有九章，其目录如下。第一章：计算机科学计算机科学Rust 回顾及学习资源第二章：算法分析性能分析：大 O 分析法第三章：基本数据结构栈、队列、双端队列、链表、Vec...",
@@ -340,7 +355,8 @@
                 "owner": "chuxiuhong",
                 "repo": "chuxiuhong-rust-patterns-zh",
                 "stars": 112
-              }
+              },
+              "first_seen": "2026-08-28T21:29:33.168Z"
             }
           ],
           "description": "有很多问题有相同的形式。 因为 Rust 不是面向对象的语言，所以设计模式与其他面向对象语言的设计模式也有所不同。 虽然细节上有所不同，但他们还是有很多相同之处：设计模式 是编写软件过程中解决常见问题的方法。反模式 是解决常见问题的方法。 然而设计模式带给我们好处，反模式却带来更多的问题。习惯用法 是编码的指导方针。它是社区的共同规范。除非你有明确的理由， 否则就遵守它。",
@@ -362,7 +378,8 @@
                 "owner": "Rust-Chinese-Translation",
                 "repo": "api-guidelines",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-28T21:29:33.168Z"
             }
           ],
           "description": "这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。",
@@ -384,7 +401,8 @@
                 "owner": "Blues-star",
                 "repo": "perf-book-zh",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T21:29:33.168Z"
             }
           ],
           "description": "本书包含了许多可以提高 Rust 程序的性能-速度和内存使用率的技术，其中编译时间部分也包含了一些可以提高 Rust 程序编译时间的技术。编译时间]部分也包含了一些可以改善 Rust 程序编译时间的技术。本书的一些技术只需要改变构建配置，但许多技术需要改变代码。一些技术完全是 Rust 特有的，而一些涉及的思想可以应用于其他编程语言编写的程序（通常需要进行修改）。General Tips 部分还包括适用于任何编程语言的一些一般原则。尽管如此，这本书主要关注 Rust 程序的性能，不能替代一本关于分析和优化的通用指南。",
@@ -406,7 +424,8 @@
                 "owner": "DaseinPhaos",
                 "repo": "tlborm-chinese",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-28T21:29:33.168Z"
             }
           ],
           "description": "本书试图提炼出一份 Rust 社区对 Rust 宏知识的集锦。",
@@ -428,7 +447,8 @@
                 "owner": "nkbai",
                 "repo": "book",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T21:29:33.168Z"
             }
           ],
           "description": "有关如何使用 Rust 编程语言为裸机（微控制器）设备开发固件的文档",
@@ -449,8 +469,9 @@
                 "last_commit": "2026-08-27T19:49:50Z",
                 "owner": "TheAlgorithms",
                 "repo": "Rust",
-                "stars": 26021
-              }
+                "stars": 26025
+              },
+              "first_seen": "2026-08-28T21:29:33.168Z"
             }
           ],
           "description": "所有算法在 Rust 中实现",
@@ -471,8 +492,9 @@
                 "last_commit": "2026-08-15T12:46:45Z",
                 "owner": "rust-lang",
                 "repo": "rfcs",
-                "stars": 6587
-              }
+                "stars": 6588
+              },
+              "first_seen": "2026-08-28T21:29:33.168Z"
             }
           ],
           "description": "“RFC”（征求意见）过程旨在为 Rust 的更改（例如新功能）提供一致且受控的路径，以便所有利益相关者都可以对项目的方向充满信心。",
@@ -490,11 +512,12 @@
                 "archived": false,
                 "id": 724712,
                 "language": "Rust",
-                "last_commit": "2026-08-27T20:33:16Z",
+                "last_commit": "2026-08-28T21:04:08Z",
                 "owner": "rust-lang",
                 "repo": "rust",
-                "stars": 116291
-              }
+                "stars": 116321
+              },
+              "first_seen": "2026-08-28T21:29:33.168Z"
             }
           ],
           "description": "这是一本记录 rust 不稳定特性的一本书。",
@@ -516,7 +539,8 @@
                 "owner": "rust-lang",
                 "repo": "edition-guide",
                 "stars": 321
-              }
+              },
+              "first_seen": "2026-08-28T21:29:33.168Z"
             }
           ],
           "description": "这个文档有中文版，但是我更建议看英文版，中文版更新不是很及时。 这本书解释了“版本”的概念，即 Rust 开发的主要新时代。你可以在线阅读这本书。",
@@ -538,7 +562,8 @@
                 "owner": "Warrenren",
                 "repo": "inside-rust-std-library",
                 "stars": 1509
-              }
+              },
+              "first_seen": "2026-08-28T21:29:33.168Z"
             }
           ],
           "description": "本书主要对 RUST 的标准库代码进行分析。 本书尽可能给读者找出一条标准库代码的阅读脉络。同时，分析不仅仅针对代码的功能，也针对代码背后的需求及若干代码设计的思路。",
@@ -560,7 +585,8 @@
                 "owner": "rust-lang-cn",
                 "repo": "cargo-cn",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T21:29:33.168Z"
             }
           ],
           "description": "本目录包含 Cargo 的文档，包含两部分，一是使用 mdbook 构建的《Cargo 手册》，二是使用 mdman 构建的帮助手册（man 手册）。",
@@ -582,7 +608,8 @@
                 "owner": "chuigda",
                 "repo": "Vulkan-Tutorial-Rust-CN",
                 "stars": 143
-              }
+              },
+              "first_seen": "2026-08-28T21:29:33.168Z"
             }
           ],
           "description": "Rust 版 Vulkan 教程的中文翻译，基于 vulkanalia.本教程会教授一些 Vulkan 图形与计算 API 的基础知识。Vulkan 是一个由 Khronos 组织 （因 OpenGL 而为人所知）提出的新 API，针对现代显卡的特性提供了更好的抽象。新的接口可以让你更好地描述你的应用程序要做什么，从而带来相比于 OpenGL 和 Direct3D 之类的现有的图形 API 更好的性能和更少的意外驱动程序行为。Vulkan 的设计思想与 Direct3D 12 和 Metal 相似，但 Vulkan 在跨平台方面具有优势，可以让你同时开发 Windows，Linux 和 Android 应用程序（并借由 MoltenVK 开发 iOS 与 MacOS 应用程序）。",
@@ -611,8 +638,9 @@
                     "last_commit": "2026-05-22T14:54:32Z",
                     "owner": "willcrichton",
                     "repo": "flowistry",
-                    "stars": 3071
-                  }
+                    "stars": 3072
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "目前开发 Rust 最好的编辑器，需要安装插件。\n插件推荐",
@@ -640,8 +668,9 @@
                     "last_commit": "2026-07-15T18:05:24Z",
                     "owner": "killercup",
                     "repo": "cargo-edit",
-                    "stars": 3444
-                  }
+                    "stars": 3446
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "该工具扩展了 Cargo，允许您通过从命令行修改 Cargo.toml 文件来添加、删除和升级依赖项。",
@@ -663,7 +692,8 @@
                     "owner": "watchexec",
                     "repo": "cargo-watch",
                     "stars": 2863
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Cargo Watch 是一个监视基于 Cargo 的项目并在文件更改时运行命令的工具。它专注于 Rust 开发体验，旨在足够灵活以适应大多数人，而不会变得复杂使用。",
@@ -694,11 +724,12 @@
                     "archived": false,
                     "id": 196701619,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T16:39:08Z",
+                    "last_commit": "2026-08-28T16:18:58Z",
                     "owner": "tauri-apps",
                     "repo": "tauri",
-                    "stars": 110603
-                  }
+                    "stars": 110625
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Tauri 是一个为所有主要桌面平台构建微小、速度极快的二进制文件的框架。开发人员可以集成任何编译为 HTML、JS 和 CSS 的前端框架，以构建其用户界面。应用程序的后端是一个 Rust 的二进制文件，前端可以与之交互。Tauri 应用程序中的用户界面目前将 tao 用作 macOS 和 Windows 上的窗口处理库，并通过 Tauri 团队孵化和维护 WRY 在 Linux 上使用 gtk，该团队利用 macOS 上的 WebKit、Windows 上的 WebView2 和 Linux 上的 WebKitGTK，为系统 webview（以及菜单和任务栏等其他好东西）创建了统一的界面。",
@@ -716,11 +747,12 @@
                     "archived": false,
                     "id": 165522651,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T13:12:02Z",
+                    "last_commit": "2026-08-28T16:08:08Z",
                     "owner": "emilk",
                     "repo": "egui",
-                    "stars": 30193
-                  }
+                    "stars": 30212
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 },
                 {
                   "node_type": "item",
@@ -735,7 +767,8 @@
                     "owner": "Re-Ch-X",
                     "repo": "egui-doc-cn",
                     "stars": 97
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "egui 是一个简单、快速、高度可移植的 Rust 即时模式 GUI 库。egui 可运行于 Web, 原生（Native） 甚至 你喜欢的的游戏引擎 （即将到来）。egui 旨在成为最易用的 Rust GUI 库，用最简单的方式创建 Web 应用程序。egui 可以在任何可以绘制纹理三角形（textured triangles）的地方使用，这意味着你可以轻松地地将它集成到你选择的游戏引擎中。",
@@ -756,8 +789,9 @@
                     "last_commit": "2026-05-19T23:09:40Z",
                     "owner": "fltk-rs",
                     "repo": "fltk-rs",
-                    "stars": 1850
-                  }
+                    "stars": 1851
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 },
                 {
                   "node_type": "item",
@@ -772,7 +806,8 @@
                     "owner": "Flatigers",
                     "repo": "fltk-book-zh",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "FLTK 图形用户界面库的 Rust 绑定。 fltk crate 是一个跨平台的轻量级 gui 库，可以静态链接以生成小型、自包含和快速的 gui 应用程序。",
@@ -790,11 +825,12 @@
                     "archived": false,
                     "id": 197081291,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T12:27:38Z",
+                    "last_commit": "2026-08-28T09:46:50Z",
                     "owner": "iced-rs",
                     "repo": "iced",
-                    "stars": 31375
-                  }
+                    "stars": 31381
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Rust 的跨平台 GUI 库，专注于简单性和类型安全。灵感来自 Elm。",
@@ -812,11 +848,12 @@
                     "archived": false,
                     "id": 567004198,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T11:27:16Z",
+                    "last_commit": "2026-08-28T21:12:02Z",
                     "owner": "linebender",
                     "repo": "xilem",
-                    "stars": 5506
-                  }
+                    "stars": 5505
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "此软件仓库包含一个实验性架构，通过玩具用户界面实现。在高层次上，它结合了 Flutter、SwiftUI 和 Elm 的理念。与所有这些架构一样，它使用轻量级视图对象，通过对它们进行差异化处理，从而为保留的 UI 提供最少的更新。与 SwiftUI 一样，它也是强类型的。",
@@ -838,7 +875,8 @@
                     "owner": "linebender",
                     "repo": "druid",
                     "stars": 9709
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Druid 是一个实验性的 Rust 原生 UI 工具包。它的主要目标是提供优美的用户体验。这个目标有很多因素，包括性能、丰富的交互调色板（因此有一个小部件库来支持它们），以及与本机平台的良好配合。有关详细信息，请参阅目标部分。 Druid 目前的发展很大程度上是由它在 Runebender 中的使用推动的，这是一种新的字体编辑器。 我们一直在 crates.io 上定期发布 Druid，但它正在积极开发中，它的 API 可能会改变。所有更改都记录在更改日志中。 有关一些关键概念的概述，请参阅（正在进行的工作）Druid 书。",
@@ -859,8 +897,9 @@
                     "last_commit": "2026-08-27T17:55:20Z",
                     "owner": "DioxusLabs",
                     "repo": "dioxus",
-                    "stars": 38898
-                  }
+                    "stars": 38901
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 },
                 {
                   "node_type": "item",
@@ -874,8 +913,9 @@
                     "last_commit": "2026-08-27T17:55:20Z",
                     "owner": "DioxusLabs",
                     "repo": "dioxus",
-                    "stars": 38898
-                  }
+                    "stars": 38901
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Dioxus 是一个可移植、高性能的框架，用于在 Rust 中构建跨平台的用户界面。Dioxus 可用于制作 网页程序、桌面应用、静态站点、移动端应用。Dioxus 为不同的平台都提供了很好的开发文档。如果你会使用 React ，那 Dioxus 对你来说会很简单。并且他还有 tui 的渲染器DioxusLabs/rink: Build reactive terminal user interfaces using Rust and Dioxus. (github.com)相关文章：一个优雅的 Rust GUI 库 (dioxuslabs.com)",
@@ -897,7 +937,8 @@
                     "owner": "vizia",
                     "repo": "vizia",
                     "stars": 2288
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Vizia 是 Rust 编程语言的声明式 GUI 框架。多平台（Windows, Linux, MacOS, Web）声明性的 API反应式事件驱动的数据系统灵活的布局引擎，由 morphorm 驱动GPU 渲染，由 femtovg 提供支持具有热重载功能的 CSS 样式设计动画音频插件 GUI 开发",
@@ -915,11 +956,12 @@
                     "archived": false,
                     "id": 261124045,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T21:05:14Z",
+                    "last_commit": "2026-08-28T21:23:27Z",
                     "owner": "slint-ui",
                     "repo": "slint",
-                    "stars": 23609
-                  }
+                    "stars": 23610
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Slint 是一个为任何显示设备有效开发流体图形用户界面的工具箱：嵌入式设备和桌面应用程序。我们支持多种编程语言，如 Rust、C++和 JavaScript。",
@@ -947,8 +989,9 @@
                     "last_commit": "2026-08-27T18:09:18Z",
                     "owner": "ratatui",
                     "repo": "ratatui",
-                    "stars": 22415
-                  }
+                    "stars": 22424
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Ratatui 是一个用 rust 制作终端用户界面的板块。它是一个轻量级库，提供了一系列小工具和实用程序，用于构建复杂的 rust TUI。Ratatui 于 2023 年从 Tui-rs crate 分支出来，以便继续开发。",
@@ -969,8 +1012,9 @@
                     "last_commit": "2023-08-06T07:35:02Z",
                     "owner": "fdehau",
                     "repo": "tui-rs",
-                    "stars": 10871
-                  }
+                    "stars": 10870
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "tui-rs 是一个 Rust 库，用于构建丰富的终端用户界面和仪表板。它深受 Javascript 库 blessed-contrib 和 Go 库 termui 的启发。",
@@ -999,7 +1043,8 @@
                     "owner": "tickbh",
                     "repo": "Commander",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Rust 命令行工具的完整解决方案。",
@@ -1024,11 +1069,12 @@
                     "archived": false,
                     "id": 234798675,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T00:36:18Z",
+                    "last_commit": "2026-08-28T21:14:25Z",
                     "owner": "bevyengine",
                     "repo": "bevy",
-                    "stars": 47912
-                  }
+                    "stars": 47938
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Bevy 是 Rust 内置的令人耳目一新的简单数据驱动游戏引擎。它永远是免费和开源的！",
@@ -1050,7 +1096,8 @@
                     "owner": "17cupsofcoffee",
                     "repo": "tetra",
                     "stars": 1010
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Tetra 是一个用 Rust 编写的简单 2D 游戏框架。它使用 SDL2 进行事件处理，使用 OpenGL 3.2+ 进行渲染。",
@@ -1072,7 +1119,8 @@
                     "owner": "amethyst",
                     "repo": "amethyst",
                     "stars": 8026
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "该仓库已经不在维护，这里是原因",
@@ -1100,8 +1148,9 @@
                     "last_commit": "2026-08-27T09:14:39Z",
                     "owner": "tokio-rs",
                     "repo": "tokio",
-                    "stars": 33023
-                  }
+                    "stars": 33028
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 },
                 {
                   "node_type": "item",
@@ -1116,7 +1165,8 @@
                     "owner": "sunface",
                     "repo": "beatui",
                     "stars": 1771
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Tokio 是 Rust 编程语言的异步运行时。它提供了编写网络应用程序所需的构建块。它提供了针对广泛系统的灵活性，从具有数十个内核的大型服务器到小型嵌入式设备。",
@@ -1141,11 +1191,12 @@
                     "archived": false,
                     "id": 114466145,
                     "language": "Rust",
-                    "last_commit": "2026-08-26T11:34:17Z",
+                    "last_commit": "2026-08-28T03:19:43Z",
                     "owner": "yewstack",
                     "repo": "yew",
-                    "stars": 32787
-                  }
+                    "stars": 32789
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 },
                 {
                   "node_type": "item",
@@ -1160,7 +1211,8 @@
                     "owner": "jetli",
                     "repo": "awesome-yew",
                     "stars": 1612
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Yew 是一个设计先进的 Rust 框架，目的是使用 WebAssembly 来创建多线程的前端 web 应用。",
@@ -1178,11 +1230,12 @@
                     "archived": false,
                     "id": 133442384,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T17:43:06Z",
+                    "last_commit": "2026-08-28T16:40:51Z",
                     "owner": "denoland",
                     "repo": "deno",
-                    "stars": 108322
-                  }
+                    "stars": 108334
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，它使用 V8 并内置于 Rust。",
@@ -1200,11 +1253,12 @@
                     "archived": false,
                     "id": 115110181,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T19:59:51Z",
+                    "last_commit": "2026-08-28T06:49:28Z",
                     "owner": "swc-project",
                     "repo": "swc",
                     "stars": 34189
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "一个代码打包器。SWC（代表 Speedy Web Compiler）是一个用 Rust 编写的超快速 TypeScript / JavaScript 编译器。它同时是 Rust 和 JavaScript 的库。如果您使用 Rust 的 SWC，请参阅 rustdoc，对于大多数用户，您使用该库的入口点将是解析器。",
@@ -1225,8 +1279,9 @@
                     "last_commit": "2026-08-26T04:10:31Z",
                     "owner": "parcel-bundler",
                     "repo": "parcel",
-                    "stars": 44021
-                  }
+                    "stars": 44023
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Parcel 是用于 web 的零配置构建工具。它将优秀的开箱即用的开发经验与可扩展的体系结构结合在一起，可以将您的项目从刚开始的阶段转变为大规模的生产应用程序。",
@@ -1248,7 +1303,8 @@
                     "owner": "rome",
                     "repo": "tools",
                     "stars": 23390
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Rome 是用于 JavaScript、TypeScript、JSON、HTML、Markdown 和 CSS 的格式化程序、linter、捆绑程序等。 Rome 旨在取代 Babel、ESLint、webpack、Prettier、Jest 等。 Rome 统一了以前是独立工具的功能。建立在一个共享的基础上，我们可以为处理代码、显示错误、并行化工作、缓存和配置提供一种内聚的体验。 Rome 有很强的约定，旨在具有最小的配置。阅读更多关于我们的项目理念的信息。 Rome 是用 Rust 编写的。 Rome 拥有一流的 IDE 支持，具有复杂的解析器，可以完全保真地表示源文本和一流的错误恢复。 Rome 是麻省理工学院根据贡献者契约行为准则获得许可和管理的。",
@@ -1266,11 +1322,12 @@
                     "archived": false,
                     "id": 131389850,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T11:19:33Z",
+                    "last_commit": "2026-08-28T18:33:42Z",
                     "owner": "napi-rs",
                     "repo": "napi-rs",
-                    "stars": 7913
-                  }
+                    "stars": 7916
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "用于在 Rust 中构建已编译的 Node.js 附加组件的最小库。",
@@ -1291,8 +1348,9 @@
                     "last_commit": "2026-08-09T06:01:32Z",
                     "owner": "parcel-bundler",
                     "repo": "lightningcss",
-                    "stars": 7666
-                  }
+                    "stars": 7667
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "用 Rust 编写的极快 CSS 解析器、转换器和精简器。可与 Parcel 一起使用，也可作为独立库或 CLI 使用，或通过插件与任何其他工具一起使用。",
@@ -1317,11 +1375,12 @@
                     "archived": false,
                     "id": 101767772,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T16:50:18Z",
+                    "last_commit": "2026-08-28T21:15:53Z",
                     "owner": "bytecodealliance",
                     "repo": "wasmtime",
-                    "stars": 18575
-                  }
+                    "stars": 18578
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "WebAssembly 的运行时",
@@ -1339,11 +1398,12 @@
                     "archived": false,
                     "id": 152572186,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T13:36:47Z",
+                    "last_commit": "2026-08-28T21:03:10Z",
                     "owner": "wasmerio",
                     "repo": "wasmer",
-                    "stars": 20975
-                  }
+                    "stars": 20982
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "WebAssembly 又一个运行时",
@@ -1361,11 +1421,12 @@
                     "archived": false,
                     "id": 224908244,
                     "language": "C++",
-                    "last_commit": "2026-08-27T19:16:32Z",
+                    "last_commit": "2026-08-28T19:39:47Z",
                     "owner": "WasmEdge",
                     "repo": "WasmEdge",
-                    "stars": 10790
-                  }
+                    "stars": 10793
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "WebAssembly 又又一个运行时WasmEdge 是一个轻量级、高性能和可扩展的 WebAssembly 运行时，适用于云原生、边缘和去中心化应用程序。它为无服务器应用程序、嵌入式功能、微服务、智能合约和物联网设备提供支持。",
@@ -1387,7 +1448,8 @@
                     "owner": "WebAssembly",
                     "repo": "WASI",
                     "stars": 5783
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "为 WebAssembly 提供内部调用接口的库WASI 不是一个单一的标准系统接口，而是标准化 API 的模块化集合。不需要实现任何 API 即可具有兼容的运行时。相反，主机环境可以选择哪些 API 对其用例有意义。",
@@ -1415,8 +1477,9 @@
                     "last_commit": "2026-08-24T08:59:38Z",
                     "owner": "libp2p",
                     "repo": "rust-libp2p",
-                    "stars": 5607
-                  }
+                    "stars": 5606
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "构建 p2p 网络的包 运行您的网络应用程序，不受运行时和地址服务的影响，与它们的位置无关。",
@@ -1437,8 +1500,9 @@
                     "last_commit": "2026-08-23T15:38:44Z",
                     "owner": "rathole-org",
                     "repo": "rathole",
-                    "stars": 14073
-                  }
+                    "stars": 14084
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 },
                 {
                   "node_type": "item",
@@ -1452,8 +1516,9 @@
                     "last_commit": "2026-08-23T15:38:44Z",
                     "owner": "rathole-org",
                     "repo": "rathole",
-                    "stars": 14073
-                  }
+                    "stars": 14084
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "安全、稳定、高性能的内网穿透工具，用 Rust 语言编写rathole，类似于 frp 和 ngrok，可以让 NAT 后的设备上的服务通过具有公网 IP 的服务器暴露在公网上。",
@@ -1475,7 +1540,8 @@
                     "owner": "maidsafe-archive",
                     "repo": "crust",
                     "stars": 949
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Rust 中具有 NAT 遍历的可靠 p2p 网络连接。任何无服务器、去中心化项目最需要的库之一。",
@@ -1504,7 +1570,8 @@
                     "owner": "rwf2",
                     "repo": "Rocket",
                     "stars": 25783
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 },
                 {
                   "node_type": "item",
@@ -1519,7 +1586,8 @@
                     "owner": "rwf2",
                     "repo": "Rocket",
                     "stars": 25783
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": null,
@@ -1540,8 +1608,9 @@
                     "last_commit": "2026-08-26T00:24:12Z",
                     "owner": "actix",
                     "repo": "actix-web",
-                    "stars": 24802
-                  }
+                    "stars": 24804
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Actix Web 是一个功能强大、实用且速度极快的 Rust Web 框架.支持 HTTP/1.x 和 HTTP/2流和流水线带有可选宏的强大请求路由完全兼容 Tokio保持活动和缓慢的请求处理客户端/服务器 WebSocket 支持透明内容压缩/解压缩（br、gzip、deflate、zstd）多部分流静态资产使用 OpenSSL 或 Rustls 的 SSL 支持中间件（记录器、会话、CORS 等）与 awc HTTP 客户端集成在稳定的 Rust 1.57+ 上运行",
@@ -1563,7 +1632,8 @@
                     "owner": "seanmonstar",
                     "repo": "warp",
                     "stars": 10366
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "一个超级简单、可组合的 web 服务器框架，用于提高 warp 速度。 warp 的基本构建块是过滤器：它们可以组合和组合来表达对请求的丰富需求。 由于其过滤器系统，warp 提供了这些开箱即用的功能：路径路由和参数提取标头要求和提取查询字符串反序列化JSON 和表单主体多部分表单数据静态文件和目录网络套接字访问记录Gzip、Deflate 和 Brotli 压缩",
@@ -1585,7 +1655,8 @@
                     "owner": "poem-web",
                     "repo": "poem",
                     "stars": 4434
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "一个功能齐全且易于使用的 Web 框架，采用 Rust 编程语言。",
@@ -1603,11 +1674,12 @@
                     "archived": false,
                     "id": 372172254,
                     "language": "Rust",
-                    "last_commit": "2026-08-20T16:51:59Z",
+                    "last_commit": "2026-08-28T13:01:01Z",
                     "owner": "tokio-rs",
                     "repo": "axum",
-                    "stars": 26972
-                  }
+                    "stars": 26976
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "axum 是一个专注于人体工程学和模块化的 Web 应用程序框架。",
@@ -1628,8 +1700,9 @@
                     "last_commit": "2026-08-27T01:04:43Z",
                     "owner": "salvo-rs",
                     "repo": "salvo",
-                    "stars": 4431
-                  }
+                    "stars": 4432
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Salvo 是一个极其简单且功能强大的 Rust Web 后端框架. 仅仅需要基础 Rust 知识即可开发后端服务.",
@@ -1658,7 +1731,8 @@
                     "owner": "importcjj",
                     "repo": "rust-ajson",
                     "stars": 109
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "gjson 的 Rust 移植，通过 dotpath 语法获取 JSON 值。原名为：rust-ajson",
@@ -1680,7 +1754,8 @@
                     "owner": "maciejhirsz",
                     "repo": "json-rust",
                     "stars": 592
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "轻松解析和序列化 JSON。",
@@ -1702,7 +1777,8 @@
                     "owner": "pikkr",
                     "repo": "pikkr",
                     "stars": 641
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "JSON 解析器直接获取值而不在 Rust 中执行标记化。",
@@ -1724,7 +1800,8 @@
                     "owner": "serde-rs",
                     "repo": "json",
                     "stars": 5631
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Serde 是一个用于高效且通用地序列化和反序列化 Rust 数据结构的框架。",
@@ -1745,8 +1822,9 @@
                     "last_commit": "2026-08-23T17:45:47Z",
                     "owner": "tafia",
                     "repo": "quick-xml",
-                    "stars": 1556
-                  }
+                    "stars": 1557
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "高性能 xml pull reader/writer。 几乎是零拷贝（尽可能使用 Cow） 易于分配内存（API 提供了一种重用缓冲区的方法） 支持各种编码（具有编码功能）、命名空间解析、特殊字符。",
@@ -1767,8 +1845,9 @@
                     "last_commit": "2026-08-23T13:56:41Z",
                     "owner": "udoprog",
                     "repo": "musli",
-                    "stars": 456
-                  }
+                    "stars": 457
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Müsli 是一个灵活的通用二进制序列化框架.性能卓越，毫不妥协.Müsli 是一个灵活、快速且通用的二进制序列化框架，用于 锈，与 serde.rs 一脉相承。它提供了一组格式，每种格式都有其自己的良好文档 一组功能和权衡。每个面向字节的序列化方法 （包括 ）在有或没有 .",
@@ -1793,11 +1872,12 @@
                     "archived": false,
                     "id": 731068194,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T20:26:50Z",
+                    "last_commit": "2026-08-28T17:12:28Z",
                     "owner": "mxsm",
                     "repo": "rocketmq-rust",
-                    "stars": 1505
-                  }
+                    "stars": 1507
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Rust 的 rocketmq 实现。",
@@ -1826,7 +1906,8 @@
                     "owner": "rust-cli",
                     "repo": "config-rs",
                     "stars": 3205
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Rust 应用程序的分层配置系统。",
@@ -1855,7 +1936,8 @@
                     "owner": "time-rs",
                     "repo": "time",
                     "stars": 1333
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "日期和时间库。与标准库完全互操作。大部分与#![no_std] 兼容。",
@@ -1877,7 +1959,8 @@
                     "owner": "chronotope",
                     "repo": "chrono",
                     "stars": 3901
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "它的目标是成为一个功能完整的时间库的超集。",
@@ -1899,7 +1982,8 @@
                     "owner": "pyfisch",
                     "repo": "httpdate",
                     "stars": 59
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "HTTP 的日期和时间工具。",
@@ -1928,7 +2012,8 @@
                     "owner": "marshallpierce",
                     "repo": "rust-base64",
                     "stars": 732
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "故名思义就是 base64 的编码库。",
@@ -1950,7 +2035,8 @@
                     "owner": "RustCrypto",
                     "repo": "MACs",
                     "stars": 371
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "用纯 Rust 编写的消息认证代码算法",
@@ -1972,7 +2058,8 @@
                     "owner": "mikkyang",
                     "repo": "rust-jwt",
                     "stars": 189
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "JSON Web 令牌库。",
@@ -1994,7 +2081,8 @@
                     "owner": "hidekatsu-izuno",
                     "repo": "josekit-rs",
                     "stars": 93
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "和上面的库差不多，功能更强大。JOSE（Javascript 对象签名和加密：JWT、JWS、JWE、JWA、JWK）库，基于 Rust 的 OpenSSL。",
@@ -2016,7 +2104,8 @@
                     "owner": "andydude",
                     "repo": "rust-sha",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Rust 安全哈希算法 (SHA) 内在库。",
@@ -2038,7 +2127,8 @@
                     "owner": "Lydanne",
                     "repo": "utf8mb3",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "将所有 4 字节字符（如表情符号）编码为 3 字节字符，并且支持 wasm。",
@@ -2066,8 +2156,9 @@
                     "last_commit": "2026-08-25T05:39:54Z",
                     "owner": "SeaQL",
                     "repo": "sea-orm",
-                    "stars": 9871
-                  }
+                    "stars": 9874
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "SeaORM 是一种关系 ORM，可帮助您使用熟悉的动态语言在 Rust 中构建 Web 服务。目前支持:- SQLx MySQL- SQLx PostgreSQL- SQLx SQLite",
@@ -2089,7 +2180,8 @@
                     "owner": "rbatis",
                     "repo": "rbatis",
                     "stars": 2486
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "受 Mybatis 和 MybatisPlus 启发，用 Rust 编写的高性能、安全、动态 SQL（编译时）ORM 框架。- 编译时动态 sql（mybatis 动态 sql 标签）、全异步(Future)、生产实践(abs_admin)、- 内存安全，协程安全，事务安全(防忘提交)，百分百 safe 代码- 多种插件，分页/逻辑删除/sql 拦截器/CRUD/Wrapper/PySQL/HtmlSQL支持数据库：数据库已支持Mysql√Postgres√Sqlite√Mssql/Sqlserver√(50%)MariaDB(Mysql)√TiDB(Mysql)√CockroachDB(Postgres)√",
@@ -2111,7 +2203,8 @@
                     "owner": "mongodb",
                     "repo": "mongo-rust-driver",
                     "stars": 1518
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "此存储库包含官方支持的 MongoDB Rust 驱动程序，这是一个客户端库，可用于与 Rust 应用程序中的 MongoDB 部署进行交互。它使用 bson crate 来支持 BSON。该驱动程序包含一个完全异步的 API，它支持 tokio（默认）或 async-std，具体取决于设置的功能标志。驱动程序还有一个同步 API，可以通过功能标志启用。",
@@ -2133,7 +2226,8 @@
                     "owner": "thedodd",
                     "repo": "wither",
                     "stars": 349
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "该项目的主要目标是基于数据模型为 MongoDB 提供一个简单、健全且可预测的接口。如果在任何时候该系统可能会妨碍您，您可以直接访问底层驱动程序。该项目针对 MongoDB 3.6、4.0、4.2 和 4.4 进行了测试。 好消息！ Wither 现在基于官方的 MongoDB Rust 驱动程序。由于驱动程序的进步，Wither 现在是完全异步的。简单地镜像底层 MongoDB 驱动程序的功能，Wither 支持以下运行时： tokio-runtime（默认）激活 tokio 运行时。 async-std-runtime 激活 async-std 运行时。 由于底层驱动程序的更新，Model trait 以及 Model 派生宏有相当多的重大变化。详细信息可以在更改日志和文档中找到。此外，现在默认情况下一切都是异步的，并且同步接口已从 repo 中完全删除。",
@@ -2151,11 +2245,12 @@
                     "archived": false,
                     "id": 15510677,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T21:00:45Z",
+                    "last_commit": "2026-08-28T15:00:22Z",
                     "owner": "redis-rs",
                     "repo": "redis-rs",
                     "stars": 4246
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Redis-rs 是 Rust 的高级 redis 库。它通过非常灵活但低级的 API 提供对所有 Redis 功能的便捷访问。它使用可自定义的类型转换特征，因此任何操作都可以返回您期望的类型的结果。这带来了非常愉快的开发体验。",
@@ -2177,7 +2272,8 @@
                     "owner": "sfackler",
                     "repo": "r2d2",
                     "stars": 1656
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Rust 的通用连接池。",
@@ -2206,7 +2302,8 @@
                     "owner": "asomers",
                     "repo": "mockall",
                     "stars": 1832
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "适用于 Rust 的强大模拟对象库。",
@@ -2235,7 +2332,8 @@
                     "owner": "georust",
                     "repo": "geo",
                     "stars": 1917
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "geo crate 提供了点、线串和多边形等地理空间基元类型，并提供了算法和操作，例如： 面积和质心计算简化和凸包操作欧几里得和哈弗辛距离测量交叉口检查仿射变换，例如旋转和平移。⚠️：如果需要计算距离所有的坐标使用 f64，这是小编踩过的坑.",
@@ -2260,11 +2358,12 @@
                     "archived": false,
                     "id": 20153092,
                     "language": "Rust",
-                    "last_commit": "2026-08-26T12:01:49Z",
+                    "last_commit": "2026-08-28T07:49:39Z",
                     "owner": "image-rs",
                     "repo": "image",
-                    "stars": 5862
-                  }
+                    "stars": 5863
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "这个 crate 提供了基本的图像处理功能和方法来转换各种图像格式。 提供的所有图像处理函数都对实现 GenericImageView 和 GenericImage 特征并返回 ImageBuffer 的类型进行操作。",
@@ -2293,7 +2392,8 @@
                     "owner": "pdeljanov",
                     "repo": "Symphonia",
                     "stars": 3370
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Symphonia 是一个纯 Rust 音频解码和媒体解复用库，支持 AAC、ALAC、FLAC、MKV、MP3、MP4、OGG、Vorbis、WAV 和 WebM。功能介绍解码支持最流行的音频编解码器，支持无间隙播放解码最常见的媒体容器格式读取大多数元数据和标签格式自动检测格式和解码器有效处理音频数据的基本音频原语100%安全的 Rust最小的依赖性速度快，性能不打折扣!此外，计划的功能包括提供一个 C 语言的 API，以便与其他语言集成为网络使用提供 WASM API",
@@ -2322,7 +2422,8 @@
                     "owner": "zmwangx",
                     "repo": "rust-ffmpeg-sys",
                     "stars": 212
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Rust 的一个视频处理库，绑定自 ffmpeng。",
@@ -2350,8 +2451,9 @@
                     "last_commit": "2026-08-24T02:59:48Z",
                     "owner": "J-F-Liu",
                     "repo": "lopdf",
-                    "stars": 2235
-                  }
+                    "stars": 2236
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "用于 PDF 文档操作的 Rust 库。",
@@ -2373,7 +2475,8 @@
                     "owner": "pdf-rs",
                     "repo": "pdf",
                     "stars": 1691
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "用于读取、操作和编写 PDF 文件的 Rust 库。",
@@ -2394,8 +2497,9 @@
                     "last_commit": "2026-08-26T18:28:43Z",
                     "owner": "tafia",
                     "repo": "calamine",
-                    "stars": 2408
-                  }
+                    "stars": 2407
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Rust 编写的 Excel/OpenDocument 电子表格文件阅读器/反序列化器。",
@@ -2416,8 +2520,9 @@
                     "last_commit": "2026-08-25T16:27:15Z",
                     "owner": "bokuweb",
                     "repo": "docx-rs",
-                    "stars": 549
-                  }
+                    "stars": 550
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "一个带有 Rust/WebAssembly 的.docx 文件编写器。",
@@ -2435,11 +2540,12 @@
                     "archived": false,
                     "id": 263727855,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T14:00:46Z",
+                    "last_commit": "2026-08-28T19:38:14Z",
                     "owner": "pola-rs",
                     "repo": "polars",
-                    "stars": 39519
-                  }
+                    "stars": 39531
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Polars 是使用 Apache Arrow Columnar Format 作为内存模型在 Rust 中实现的速度极快的 DataFrames 库。应该是一个可以读取 csv 查询处理的库。",
@@ -2468,7 +2574,8 @@
                     "owner": "rrevenantt",
                     "repo": "antlr4rust",
                     "stars": 460
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Rust 编程语言的 Antlr4 运行时。Antlr4 是一个强大的语言分析器可以把目前绝大多数的语言解析成 ast 结构。你也可以用这个来创造自己的语言。",
@@ -2490,7 +2597,8 @@
                     "owner": "oli-obk",
                     "repo": "pandoc-ast",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "反序列化和序列化 markdown ast 以编写 pandoc 过滤器",
@@ -2519,7 +2627,8 @@
                     "owner": "atroche",
                     "repo": "rust-headless-chrome",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "一个无头浏览器。通过 DevTools 协议控制无头 Chrome 或 Chromium 的高级 API。它是 Puppeteer 的 Rust 等价物，一个由 Chrome DevTools 团队维护的 Node 库。 它不是 100% 与 Puppeteer 兼容的功能，但这里足以满足大多数浏览器测试/网络爬虫用例，并且有几个“高级”功能，例如：网络请求拦截JavaScript 覆盖率监控打开隐身窗口截取元素或整个页面的屏幕截图将页面保存为 PDF'headful' 浏览自动下载适用于 Linux/Mac/Windows 的“已知良好”Chromium 二进制文件扩展预加载",
@@ -2541,7 +2650,8 @@
                     "owner": "enigo-rs",
                     "repo": "enigo",
                     "stars": 1778
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Rust 中的跨平台输入模拟。",
@@ -2563,7 +2673,8 @@
                     "owner": "obv-mikhail",
                     "repo": "InputBot",
                     "stars": 462
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "用于模拟键盘/鼠标输入事件和注册全局输入设备事件处理程序的跨平台（Windows 和 Linux）库。 允许编写将长动作序列折叠成单个按键的自动化程序。",
@@ -2592,7 +2703,8 @@
                     "owner": "nashaofu",
                     "repo": "xcap",
                     "stars": 1008
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "适用于 MacOS、Windows、Linux(X11、wayland) 的跨平台截图库。",
@@ -2614,7 +2726,8 @@
                     "owner": "magiclen",
                     "repo": "execute",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "这个库用于扩展 Command，以便更容易地执行程序。",
@@ -2642,8 +2755,9 @@
                     "last_commit": "2022-10-10T07:02:35Z",
                     "owner": "neuronika",
                     "repo": "neuronika",
-                    "stars": 1086
-                  }
+                    "stars": 1085
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "纯 Rust 中的张量和动态神经网络。",
@@ -2672,7 +2786,8 @@
                     "owner": "mozilla",
                     "repo": "cbindgen",
                     "stars": 2945
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "从 Rust 代码生成 C 绑定的项目。",
@@ -2690,11 +2805,12 @@
                     "archived": false,
                     "id": 91151442,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T20:39:14Z",
+                    "last_commit": "2026-08-28T21:27:55Z",
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16077
-                  }
+                    "stars": 16081
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Python 的 Rust 绑定，包括用于创建本机 Python 扩展模块的工具。还支持从 Rust 二进制文件运行 Python 代码并与之交互。",
@@ -2723,7 +2839,8 @@
                     "owner": "QuantumBadger",
                     "repo": "Speedy2D",
                     "stars": 412
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "图形、图像和文本的硬件加速绘图，具有易于使用的 API。",
@@ -2741,11 +2858,12 @@
                     "archived": false,
                     "id": 148686316,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T19:20:03Z",
+                    "last_commit": "2026-08-28T21:18:36Z",
                     "owner": "gfx-rs",
                     "repo": "wgpu",
-                    "stars": 17878
-                  }
+                    "stars": 17885
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Rust 中安全且可移植的 GPU 抽象，实现了 WebGPU API。",
@@ -2767,7 +2885,8 @@
                     "owner": "glium",
                     "repo": "glium",
                     "stars": 3615
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Rust 语言的安全 OpenGL 包装器。",
@@ -2788,8 +2907,9 @@
                     "last_commit": "2026-08-26T12:50:26Z",
                     "owner": "vulkano-rs",
                     "repo": "vulkano",
-                    "stars": 5144
-                  }
+                    "stars": 5145
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Vulkan 由 OpenGL 所在的行业组织开发，于 2016 年首次发布，当前版本为 1.1。如果 OpenGL 是 GPU Javascript，那 Vulkan 就是 GPU C。更底层级，更更广泛的用途，和（潜在的）比 OpenGL 更容易编写快速代码。当然，多数时候这也可能不是你想直接地使用的东西，因为它真的非常具体且冗长。它不是一个图形 API，而是一个与 GPU 对话的接口；而实际的图形 API 是您使用 Vulkan，来创建的。2019Rust 图形库之路(译) —— ggez 作者 (llever.com)",
@@ -2811,7 +2931,8 @@
                     "owner": "nannou-org",
                     "repo": "nannou",
                     "stars": 6743
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Rust 的开源创意编码工具包。 nannou 是一组代码，旨在使艺术家能够轻松地用简单、快速、可靠、可移植的代码表达自己。无论是进行 12 个月的安装还是 5 分钟的草图，该框架旨在让艺术家轻松访问他们需要的工具。简单说他不是一个库是一个堆库的集合，包括图形渲染、声音播放等等。",
@@ -2833,7 +2954,8 @@
                     "owner": "jrmuizel",
                     "repo": "raqote",
                     "stars": 1177
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "一个纯 Rust 的 2D 图形库。",
@@ -2858,11 +2980,12 @@
                     "archived": false,
                     "id": 146327667,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T21:00:33Z",
+                    "last_commit": "2026-08-28T21:09:03Z",
                     "owner": "vectordotdev",
                     "repo": "vector",
-                    "stars": 22469
-                  }
+                    "stars": 22474
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "高性能可观察性数据管道。",
@@ -2891,7 +3014,8 @@
                     "owner": "apache",
                     "repo": "dubbo-rust",
                     "stars": 295
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 },
                 {
                   "node_type": "item",
@@ -2906,7 +3030,8 @@
                     "owner": "apache",
                     "repo": "dubbo-rust",
                     "stars": 295
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Apache Dubbo-rust, Dubbo RPC 框架的 Rust 实现。",
@@ -2924,11 +3049,12 @@
                     "archived": false,
                     "id": 491161925,
                     "language": "Rust",
-                    "last_commit": "2026-08-25T09:21:15Z",
+                    "last_commit": "2026-08-28T04:21:28Z",
                     "owner": "cloudwego",
                     "repo": "volo",
                     "stars": 2621
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Volo 是一个轻量级、高性能、可扩展性强、易用性好的 Rust RPC 框架，使用了 Rust 最新的 GAT 和 TAIT 特性。",
@@ -2956,8 +3082,9 @@
                     "last_commit": "2026-03-22T12:28:05Z",
                     "owner": "Rust-SDL2",
                     "repo": "rust-sdl2",
-                    "stars": 2949
-                  }
+                    "stars": 2950
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Rust 中 SDL2 的绑定。",
@@ -2986,7 +3113,8 @@
                     "owner": "magiclen",
                     "repo": "educe",
                     "stars": 164
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "这个 crate 提供了程序宏，帮助您快速实现 Rust 内置特性。说人话就是，一个对 Debug、Default、Hash、Clone、Copy 系统自带宏的扩展补充，挺好用。",
@@ -3014,8 +3142,9 @@
                     "last_commit": "2025-01-22T19:41:54Z",
                     "owner": "solana-labs",
                     "repo": "solana",
-                    "stars": 14943
-                  }
+                    "stars": 14939
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Solana 的高吞吐量、低延迟和低交易费用使其非常适合需要快速处理和大规模交易的应用场景，如 DeFi、NFT 市场和高性能游戏。它的开发工具和支持也使得开发者能够高效地构建复杂的去中心化应用程序。",
@@ -3046,11 +3175,12 @@
                     "archived": false,
                     "id": 340547520,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T20:26:44Z",
+                    "last_commit": "2026-08-28T21:26:33Z",
                     "owner": "zed-industries",
                     "repo": "zed",
-                    "stars": 89325
-                  }
+                    "stars": 89378
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "以思维的速度编写代码 - Zed 是一款高性能、多人协作的代码编辑器，由 Atom 和 Tree-sitter 的创作者开发。仓主试用，非常不错，值得一试。",
@@ -3068,11 +3198,12 @@
                     "archived": false,
                     "id": 377496562,
                     "language": "Dart",
-                    "last_commit": "2026-08-11T13:01:19Z",
+                    "last_commit": "2026-08-28T06:32:59Z",
                     "owner": "AppFlowy-IO",
                     "repo": "AppFlowy",
-                    "stars": 76012
-                  }
+                    "stars": 76042
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "⭐️ Notion 的开源替代品 ⭐️",
@@ -3093,8 +3224,9 @@
                     "last_commit": "2026-07-15T11:27:37Z",
                     "owner": "lapce",
                     "repo": "lapce",
-                    "stars": 38780
-                  }
+                    "stars": 38783
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Lapce 是用纯 Rust 编写的，用户界面是 Druid（也是用 Rust 编写）。它是用 Xi-Editor 的 Rope Science 设计的，使得计算速度快如闪电，并利用 OpenGL 进行渲染。关于 Lapce 功能的更多信息可以在主网站上找到，用户文档可以在 GitBook 上找到。\n一个有点像是 VSCode 的编辑器。",
@@ -3112,11 +3244,12 @@
                     "archived": false,
                     "id": 226408450,
                     "language": "Rust",
-                    "last_commit": "2026-08-12T05:40:28Z",
+                    "last_commit": "2026-08-28T19:14:42Z",
                     "owner": "neovide",
                     "repo": "neovide",
-                    "stars": 15191
-                  }
+                    "stars": 15193
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "这是 Neovim（一个经过积极重构和更新的 Vim 编辑器）的简单图形用户界面。在可能的情况下，有一些图形改进，但在功能上，它应该像终端用户界面一样。",
@@ -3137,8 +3270,9 @@
                     "last_commit": "2026-08-25T23:26:07Z",
                     "owner": "helix-editor",
                     "repo": "helix",
-                    "stars": 45942
-                  }
+                    "stars": 45969
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "一个受 kakoune/neovim 启发的编辑器，用 Rust 编写。 编辑模型在很大程度上是基于 kakoune；在开发过程中，我发现自己同意 kakoune 的大部分设计决定。",
@@ -3163,11 +3297,12 @@
                     "archived": false,
                     "id": 120568143,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T11:51:51Z",
+                    "last_commit": "2026-08-28T08:19:06Z",
                     "owner": "wezterm",
                     "repo": "wezterm",
-                    "stars": 28589
-                  }
+                    "stars": 28613
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "GPU 加速交叉平台模拟器和终端器.",
@@ -3192,11 +3327,12 @@
                     "archived": false,
                     "id": 299354207,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T08:33:58Z",
+                    "last_commit": "2026-08-28T09:15:42Z",
                     "owner": "rustdesk",
                     "repo": "rustdesk",
-                    "stars": 121981
-                  }
+                    "stars": 122056
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "面向所有人的开源虚拟/远程桌面基础架构！开源的 TeamViewer 替代方案。显示和控制您的 PC 和安卓设备。",
@@ -3224,8 +3360,9 @@
                     "last_commit": "2026-08-04T08:27:21Z",
                     "owner": "gitui-org",
                     "repo": "gitui",
-                    "stars": 22438
-                  }
+                    "stars": 22444
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "GitUI 为您提供了 git GUI 的舒适性，但就在您的终端上.",
@@ -3253,8 +3390,9 @@
                     "last_commit": "2026-02-04T18:00:26Z",
                     "owner": "ekzhang",
                     "repo": "bore",
-                    "stars": 11447
-                  }
+                    "stars": 11459
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Rust 中的一个现代、简单的 TCP 隧道，它将本地端口暴露给远程服务器，绕过标准 NAT 连接防火墙。这就是它所做的一切：不多也不少。",
@@ -3283,7 +3421,8 @@
                     "owner": "ltoddy",
                     "repo": "cloc-rs",
                     "stars": 32
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "快速计算或计算源代码行和注释的差异。",
@@ -3312,7 +3451,8 @@
                     "owner": "cnosdb",
                     "repo": "cnosdb",
                     "stars": 1756
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "一个具有高性能、高压缩率和高实用性的开源分布式时间序列数据库。",
@@ -3337,11 +3477,12 @@
                     "archived": false,
                     "id": 179385712,
                     "language": "Rust",
-                    "last_commit": "2026-08-25T19:01:08Z",
+                    "last_commit": "2026-08-28T02:13:47Z",
                     "owner": "bottlerocket-os",
                     "repo": "bottlerocket",
-                    "stars": 9663
-                  }
+                    "stars": 9665
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "一个为托管容器而设计的操作系统",
@@ -3369,8 +3510,9 @@
                     "last_commit": "2021-10-31T17:28:45Z",
                     "owner": "Starlight-JS",
                     "repo": "starlight",
-                    "stars": 531
-                  }
+                    "stars": 532
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Rust 中的 JS 引擎",
@@ -3398,8 +3540,9 @@
                     "last_commit": "2026-08-27T14:07:01Z",
                     "owner": "meilisearch",
                     "repo": "meilisearch",
-                    "stars": 59109
-                  }
+                    "stars": 59116
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "⚡ 一个闪电般快速的搜索引擎，可轻松融入您的应用、网站和工作流程.一个即时搜索引擎，知乎上说好像处理大规模数据不太快，具体需要自己试试。",
@@ -3420,8 +3563,9 @@
                     "last_commit": "2026-08-26T15:43:58Z",
                     "owner": "valeriansaliou",
                     "repo": "sonic",
-                    "stars": 21320
-                  }
+                    "stars": 21322
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "Sonic 是一个快速、轻量级和无模式的搜索后端。它引入搜索文本和标识符元组，然后可以在微秒的时间内查询这些文本和标识符元组。据说是比 Elasticsearch 快。",
@@ -3449,8 +3593,9 @@
                     "last_commit": "2026-08-26T09:03:04Z",
                     "owner": "bee-san",
                     "repo": "RustScan",
-                    "stars": 20337
-                  }
+                    "stars": 20340
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "现代端口扫描程序。快速查找端口（最快 3 秒）。",
@@ -3468,11 +3613,12 @@
                     "archived": false,
                     "id": 519895363,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T20:53:59Z",
+                    "last_commit": "2026-08-28T20:40:21Z",
                     "owner": "GyulyVGC",
                     "repo": "sniffnet",
-                    "stars": 40880
-                  }
+                    "stars": 40924
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "舒适地监控你的网络流量的应用程序。",
@@ -3501,7 +3647,8 @@
                     "owner": "biliup",
                     "repo": "biliup-rs",
                     "stars": 1073
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "命令行投稿(B 站)和视频下载工具，提供多种登录方式，支持多 p、上海腾讯云内网上传免流+大幅提速。",
@@ -3530,7 +3677,8 @@
                     "owner": "Borber",
                     "repo": "Tran",
                     "stars": 600
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:29:33.168Z"
                 }
               ],
               "description": "一个用 rust 开发的翻译软件。",
@@ -3547,7 +3695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:08:00.223Z",
+    "last_updated": "2026-08-28T21:29:33.168Z",
     "original_repository_info": {
       "archived": false,
       "id": 517072951,
