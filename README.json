@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "rustlang-cn/rust-weekly: Rust 语言周刊，每周五发布，精选过去一周的技术文章、业界新闻、开源项目和 Rust 语言动态 (github.com)",
-          "description": null,
+          "description": "rustcn-org/rust-weekly",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -29,7 +29,7 @@
         {
           "node_type": "item",
           "title": "yunwei37/blockchain-rust: blockchain_go in rust: A simplified blockchain implementation in rust for leaning / 用 rust 从零开始构建区块链(Bitcoin) (github.com)",
-          "description": null,
+          "description": "yunwei37/blockchain-rust",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -65,7 +65,7 @@
             {
               "node_type": "item",
               "title": "文档仓库",
-              "description": null,
+              "description": "sunface/rust-course",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -111,7 +111,7 @@
             {
               "node_type": "item",
               "title": "文档仓库",
-              "description": null,
+              "description": "kingfree/cheats.rs",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -141,7 +141,7 @@
             {
               "node_type": "item",
               "title": "文档仓库",
-              "description": null,
+              "description": "rust-lang-cn/rust-by-example-cn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -172,7 +172,7 @@
             {
               "node_type": "item",
               "title": "文档仓库",
-              "description": null,
+              "description": "google/comprehensive-rust",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -181,11 +181,11 @@
                 "id": 580836813,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T15:22:46Z",
-                "open_issues": 172,
+                "last_commit": "2026-10-02T21:58:28Z",
+                "open_issues": 170,
                 "owner": "google",
                 "repo": "comprehensive-rust",
-                "stars": 33400,
+                "stars": 33399,
                 "topics": [
                   "android",
                   "classroom",
@@ -209,7 +209,7 @@
             {
               "node_type": "item",
               "title": "文档仓库",
-              "description": null,
+              "description": "rustcc/RustPrimer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -241,7 +241,7 @@
             {
               "node_type": "item",
               "title": "文档仓库",
-              "description": null,
+              "description": "rust-lang-cn/nomicon-zh-Hans",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -273,7 +273,7 @@
             {
               "node_type": "item",
               "title": "文档仓库",
-              "description": null,
+              "description": "rust-lang-cn/reference-cn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -305,7 +305,7 @@
             {
               "node_type": "item",
               "title": "文档仓库",
-              "description": null,
+              "description": "rust-lang-cn/rust-cookbook-cn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -337,7 +337,7 @@
             {
               "node_type": "item",
               "title": "文档仓库",
-              "description": null,
+              "description": "rust-boom/rusty-book",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -365,7 +365,7 @@
             {
               "node_type": "item",
               "title": "文档仓库",
-              "description": null,
+              "description": "rustcn-org/async-book",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -393,7 +393,7 @@
             {
               "node_type": "item",
               "title": "文档仓库",
-              "description": null,
+              "description": "origin-brain/rust-by-practice",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -406,7 +406,7 @@
                 "open_issues": 68,
                 "owner": "origin-brain",
                 "repo": "rust-by-practice",
-                "stars": 14785,
+                "stars": 14786,
                 "topics": [
                   "example",
                   "examples",
@@ -430,7 +430,7 @@
             {
               "node_type": "item",
               "title": "文档仓库",
-              "description": null,
+              "description": "rustcn-org/rust-algos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -466,7 +466,7 @@
             {
               "node_type": "item",
               "title": "文档仓库",
-              "description": null,
+              "description": "QMHTMY/RustBook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -494,7 +494,7 @@
             {
               "node_type": "item",
               "title": "文档仓库",
-              "description": null,
+              "description": "chuxiuhong/chuxiuhong-rust-patterns-zh",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -525,7 +525,7 @@
             {
               "node_type": "item",
               "title": "文档仓库",
-              "description": null,
+              "description": "Rust-Chinese-Translation/api-guidelines",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -553,7 +553,7 @@
             {
               "node_type": "item",
               "title": "文档仓库",
-              "description": null,
+              "description": "Blues-star/perf-book-zh",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -581,7 +581,7 @@
             {
               "node_type": "item",
               "title": "文档仓库",
-              "description": null,
+              "description": "DaseinPhaos/tlborm-chinese",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -614,7 +614,7 @@
             {
               "node_type": "item",
               "title": "文档仓库",
-              "description": null,
+              "description": "nkbai/book",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -642,7 +642,7 @@
             {
               "node_type": "item",
               "title": "文档仓库",
-              "description": null,
+              "description": "TheAlgorithms/Rust",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -655,7 +655,7 @@
                 "open_issues": 11,
                 "owner": "TheAlgorithms",
                 "repo": "Rust",
-                "stars": 26075,
+                "stars": 26077,
                 "topics": [
                   "algorithms",
                   "data-structures",
@@ -676,7 +676,7 @@
             {
               "node_type": "item",
               "title": "文档仓库",
-              "description": null,
+              "description": "rust-lang/rfcs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -689,7 +689,7 @@
                 "open_issues": 794,
                 "owner": "rust-lang",
                 "repo": "rfcs",
-                "stars": 6608,
+                "stars": 6607,
                 "topics": [
                   "rfc",
                   "rfc-process",
@@ -708,7 +708,7 @@
             {
               "node_type": "item",
               "title": "文档仓库",
-              "description": null,
+              "description": "rust-lang/rust",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -717,11 +717,11 @@
                 "id": 724712,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T16:00:02Z",
-                "open_issues": 12621,
+                "last_commit": "2026-10-03T03:15:42Z",
+                "open_issues": 12615,
                 "owner": "rust-lang",
                 "repo": "rust",
-                "stars": 119404,
+                "stars": 119418,
                 "topics": [
                   "compiler",
                   "language",
@@ -740,7 +740,7 @@
             {
               "node_type": "item",
               "title": "文档仓库",
-              "description": null,
+              "description": "rust-lang/edition-guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -771,7 +771,7 @@
             {
               "node_type": "item",
               "title": "文档仓库",
-              "description": null,
+              "description": "Warrenren/inside-rust-std-library",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -799,7 +799,7 @@
             {
               "node_type": "item",
               "title": "文档仓库",
-              "description": null,
+              "description": "rust-lang-cn/cargo-cn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -827,7 +827,7 @@
             {
               "node_type": "item",
               "title": "文档仓库",
-              "description": null,
+              "description": "chuigda/Vulkan-Tutorial-Rust-CN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -873,7 +873,7 @@
                 {
                   "node_type": "item",
                   "title": "flowistry",
-                  "description": null,
+                  "description": "willcrichton/flowistry",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -913,7 +913,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "killercup/cargo-edit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -945,7 +945,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "watchexec/cargo-watch",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -993,7 +993,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "tauri-apps/tauri",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1006,7 +1006,7 @@
                     "open_issues": 1476,
                     "owner": "tauri-apps",
                     "repo": "tauri",
-                    "stars": 111547,
+                    "stars": 111560,
                     "topics": [
                       "desktop-app",
                       "high-performance",
@@ -1029,7 +1029,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "emilk/egui",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1039,10 +1039,10 @@
                     "language": "Rust",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-29T17:13:22Z",
-                    "open_issues": 1129,
+                    "open_issues": 1133,
                     "owner": "emilk",
                     "repo": "egui",
-                    "stars": 30803,
+                    "stars": 30806,
                     "topics": [
                       "egui",
                       "game-development",
@@ -1058,7 +1058,7 @@
                 {
                   "node_type": "item",
                   "title": "中文文档",
-                  "description": null,
+                  "description": "Re-Ch-X/egui-doc-cn",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1086,7 +1086,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "fltk-rs/fltk-rs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1113,7 +1113,7 @@
                 {
                   "node_type": "item",
                   "title": "中文文档",
-                  "description": null,
+                  "description": "Flatigers/fltk-book-zh",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1141,7 +1141,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "iced-rs/iced",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1150,11 +1150,11 @@
                     "id": 197081291,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T14:32:51Z",
+                    "last_commit": "2026-10-02T20:37:02Z",
                     "open_issues": 508,
                     "owner": "iced-rs",
                     "repo": "iced",
-                    "stars": 31645,
+                    "stars": 31648,
                     "topics": [
                       "elm",
                       "graphics",
@@ -1180,7 +1180,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "linebender/xilem",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1193,7 +1193,7 @@
                     "open_issues": 158,
                     "owner": "linebender",
                     "repo": "xilem",
-                    "stars": 5543,
+                    "stars": 5545,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:29:33.168Z"
@@ -1208,7 +1208,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "linebender/druid",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1236,7 +1236,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "DioxusLabs/dioxus",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1246,10 +1246,10 @@
                     "language": "Rust",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-30T14:40:33Z",
-                    "open_issues": 804,
+                    "open_issues": 805,
                     "owner": "DioxusLabs",
                     "repo": "dioxus",
-                    "stars": 39311,
+                    "stars": 39318,
                     "topics": [
                       "android",
                       "css",
@@ -1271,7 +1271,7 @@
                 {
                   "node_type": "item",
                   "title": "中文文档",
-                  "description": null,
+                  "description": "DioxusLabs/dioxus",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1281,10 +1281,10 @@
                     "language": "Rust",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-30T14:40:33Z",
-                    "open_issues": 804,
+                    "open_issues": 805,
                     "owner": "DioxusLabs",
                     "repo": "dioxus",
-                    "stars": 39311,
+                    "stars": 39318,
                     "topics": [
                       "android",
                       "css",
@@ -1313,7 +1313,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "vizia/vizia",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1326,7 +1326,7 @@
                     "open_issues": 66,
                     "owner": "vizia",
                     "repo": "vizia",
-                    "stars": 2316,
+                    "stars": 2317,
                     "topics": [
                       "application",
                       "binding",
@@ -1357,7 +1357,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "slint-ui/slint",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1366,11 +1366,11 @@
                     "id": 261124045,
                     "language": "Rust",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-02T16:06:07Z",
-                    "open_issues": 825,
+                    "last_commit": "2026-10-02T22:00:28Z",
+                    "open_issues": 829,
                     "owner": "slint-ui",
                     "repo": "slint",
-                    "stars": 24041,
+                    "stars": 24045,
                     "topics": [
                       "cpp",
                       "declarative-ui",
@@ -1410,7 +1410,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "ratatui/ratatui",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1420,10 +1420,10 @@
                     "language": "Rust",
                     "license": "MIT",
                     "last_commit": "2026-09-28T19:29:50Z",
-                    "open_issues": 213,
+                    "open_issues": 214,
                     "owner": "ratatui",
                     "repo": "ratatui",
-                    "stars": 22843,
+                    "stars": 22848,
                     "topics": [
                       "cli",
                       "ratatui",
@@ -1446,7 +1446,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "fdehau/tui-rs",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1486,7 +1486,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "tickbh/Commander",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1521,7 +1521,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "bevyengine/bevy",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1530,11 +1530,11 @@
                     "id": 234798675,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T06:55:10Z",
-                    "open_issues": 3445,
+                    "last_commit": "2026-10-03T01:34:45Z",
+                    "open_issues": 3444,
                     "owner": "bevyengine",
                     "repo": "bevy",
-                    "stars": 48545,
+                    "stars": 48558,
                     "topics": [
                       "bevy",
                       "game-development",
@@ -1556,7 +1556,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "17cupsofcoffee/tetra",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1591,7 +1591,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "amethyst/amethyst",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1632,7 +1632,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "tokio-rs/tokio",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1641,11 +1641,11 @@
                     "id": 67836789,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T13:04:23Z",
-                    "open_issues": 482,
+                    "last_commit": "2026-10-02T22:54:28Z",
+                    "open_issues": 467,
                     "owner": "tokio-rs",
                     "repo": "tokio",
-                    "stars": 33300,
+                    "stars": 33307,
                     "topics": [
                       "asynchronous",
                       "networking",
@@ -1657,7 +1657,7 @@
                 {
                   "node_type": "item",
                   "title": "中文文档",
-                  "description": null,
+                  "description": "sunface/beatui",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1692,7 +1692,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "yewstack/yew",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1705,7 +1705,7 @@
                     "open_issues": 121,
                     "owner": "yewstack",
                     "repo": "yew",
-                    "stars": 32822,
+                    "stars": 32823,
                     "topics": [
                       "asmjs",
                       "concurrency",
@@ -1727,7 +1727,7 @@
                 {
                   "node_type": "item",
                   "title": "资源仓库",
-                  "description": null,
+                  "description": "jetli/awesome-yew",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1763,7 +1763,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "denoland/deno",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1773,10 +1773,10 @@
                     "language": "Rust",
                     "license": "MIT",
                     "last_commit": "2026-10-01T17:20:25Z",
-                    "open_issues": 1647,
+                    "open_issues": 1649,
                     "owner": "denoland",
                     "repo": "deno",
-                    "stars": 108542,
+                    "stars": 108550,
                     "topics": [
                       "deno",
                       "javascript",
@@ -1796,7 +1796,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "swc-project/swc",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1805,11 +1805,11 @@
                     "id": 115110181,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T14:02:53Z",
-                    "open_issues": 398,
+                    "last_commit": "2026-10-03T02:54:10Z",
+                    "open_issues": 393,
                     "owner": "swc-project",
                     "repo": "swc",
-                    "stars": 34213,
+                    "stars": 34211,
                     "topics": [
                       "babel",
                       "compiler",
@@ -1836,7 +1836,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "parcel-bundler/parcel",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1876,7 +1876,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "rome/tools",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1889,7 +1889,7 @@
                     "open_issues": 93,
                     "owner": "rome",
                     "repo": "tools",
-                    "stars": 23370,
+                    "stars": 23369,
                     "topics": [
                       "formatter",
                       "javascript",
@@ -1910,7 +1910,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "napi-rs/napi-rs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1919,7 +1919,7 @@
                     "id": 131389850,
                     "language": "Rust",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-02T16:27:40Z",
+                    "last_commit": "2026-10-02T17:35:14Z",
                     "open_issues": 273,
                     "owner": "napi-rs",
                     "repo": "napi-rs",
@@ -1946,7 +1946,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "parcel-bundler/lightningcss",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1988,7 +1988,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "bytecodealliance/wasmtime",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1997,11 +1997,11 @@
                     "id": 101767772,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T16:46:20Z",
-                    "open_issues": 848,
+                    "last_commit": "2026-10-02T23:03:16Z",
+                    "open_issues": 850,
                     "owner": "bytecodealliance",
                     "repo": "wasmtime",
-                    "stars": 18679,
+                    "stars": 18681,
                     "topics": [
                       "aot",
                       "cranelift",
@@ -2030,7 +2030,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "wasmerio/wasmer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2039,11 +2039,11 @@
                     "id": 152572186,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T14:30:15Z",
-                    "open_issues": 289,
+                    "last_commit": "2026-10-03T00:02:51Z",
+                    "open_issues": 282,
                     "owner": "wasmerio",
                     "repo": "wasmer",
-                    "stars": 21116,
+                    "stars": 21118,
                     "topics": [
                       "emscripten",
                       "linux",
@@ -2069,7 +2069,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "WasmEdge/WasmEdge",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2078,11 +2078,11 @@
                     "id": 224908244,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T11:31:38Z",
-                    "open_issues": 146,
+                    "last_commit": "2026-10-03T04:02:03Z",
+                    "open_issues": 147,
                     "owner": "WasmEdge",
                     "repo": "WasmEdge",
-                    "stars": 10810,
+                    "stars": 10811,
                     "topics": [
                       "artificial-intelligence",
                       "cloud",
@@ -2113,7 +2113,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "WebAssembly/WASI",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2153,7 +2153,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "libp2p/rust-libp2p",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2163,7 +2163,7 @@
                     "language": "Rust",
                     "license": "MIT",
                     "last_commit": "2026-10-02T15:26:23Z",
-                    "open_issues": 301,
+                    "open_issues": 302,
                     "owner": "libp2p",
                     "repo": "rust-libp2p",
                     "stars": 5615,
@@ -2187,7 +2187,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "rathole-org/rathole",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2220,7 +2220,7 @@
                 {
                   "node_type": "item",
                   "title": "中文文档",
-                  "description": null,
+                  "description": "rathole-org/rathole",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2260,7 +2260,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "maidsafe-archive/crust",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2323,7 +2323,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "rwf2/Rocket",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2358,7 +2358,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "actix/actix-web",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2367,8 +2367,8 @@
                     "id": 105379569,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T13:50:46Z",
-                    "open_issues": 194,
+                    "last_commit": "2026-10-02T21:48:43Z",
+                    "open_issues": 191,
                     "owner": "actix",
                     "repo": "actix-web",
                     "stars": 24850,
@@ -2394,7 +2394,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "seanmonstar/warp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2427,7 +2427,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "poem-web/poem",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2436,7 +2436,7 @@
                     "id": 394929332,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T15:31:56Z",
+                    "last_commit": "2026-10-03T05:04:03Z",
                     "open_issues": 194,
                     "owner": "poem-web",
                     "repo": "poem",
@@ -2466,7 +2466,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "tokio-rs/axum",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2479,7 +2479,7 @@
                     "open_issues": 81,
                     "owner": "tokio-rs",
                     "repo": "axum",
-                    "stars": 27323,
+                    "stars": 27333,
                     "topics": [
                       "http",
                       "routing",
@@ -2498,7 +2498,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "salvo-rs/salvo",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2540,7 +2540,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "importcjj/rust-ajson",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2577,7 +2577,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "maciejhirsz/json-rust",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2611,7 +2611,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "pikkr/pikkr",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2645,7 +2645,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "serde-rs/json",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2677,7 +2677,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "tafia/quick-xml",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2714,7 +2714,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "udoprog/musli",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2754,7 +2754,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "mxsm/rocketmq-rust",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2763,8 +2763,8 @@
                     "id": 731068194,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T15:39:06Z",
-                    "open_issues": 14,
+                    "last_commit": "2026-10-03T02:11:05Z",
+                    "open_issues": 10,
                     "owner": "mxsm",
                     "repo": "rocketmq-rust",
                     "stars": 1522,
@@ -2802,7 +2802,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "rust-cli/config-rs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2845,7 +2845,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "time-rs/time",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2878,7 +2878,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "chronotope/chrono",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2911,7 +2911,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "pyfisch/httpdate",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2946,7 +2946,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "marshallpierce/rust-base64",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2978,7 +2978,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "RustCrypto/MACs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3006,7 +3006,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "mikkyang/rust-jwt",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3034,7 +3034,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "hidekatsu-izuno/josekit-rs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3062,7 +3062,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "andydude/rust-sha",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3090,7 +3090,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "Lydanne/utf8mb3",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3135,7 +3135,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "SeaQL/sea-orm",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3176,7 +3176,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "rbatis/rbatis",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3222,7 +3222,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "mongodb/mongo-rust-driver",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3255,7 +3255,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "thedodd/wither",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3290,7 +3290,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "redis-rs/redis-rs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3318,7 +3318,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "sfackler/r2d2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3353,7 +3353,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "asomers/mockall",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3388,7 +3388,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "georust/geo",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3429,7 +3429,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "image-rs/image",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3468,7 +3468,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "pdeljanov/Symphonia",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3481,7 +3481,7 @@
                     "open_issues": 89,
                     "owner": "pdeljanov",
                     "repo": "Symphonia",
-                    "stars": 3419,
+                    "stars": 3420,
                     "topics": [
                       "aac",
                       "adpcm",
@@ -3524,7 +3524,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "zmwangx/rust-ffmpeg-sys",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3559,7 +3559,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "J-F-Liu/lopdf",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3572,7 +3572,7 @@
                     "open_issues": 84,
                     "owner": "J-F-Liu",
                     "repo": "lopdf",
-                    "stars": 2259,
+                    "stars": 2260,
                     "topics": [
                       "pdf-document",
                       "rust",
@@ -3591,7 +3591,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "pdf-rs/pdf",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3623,7 +3623,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "tafia/calamine",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3636,7 +3636,7 @@
                     "open_issues": 50,
                     "owner": "tafia",
                     "repo": "calamine",
-                    "stars": 2440,
+                    "stars": 2441,
                     "topics": [
                       "deserializer",
                       "excel",
@@ -3659,7 +3659,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "bokuweb/docx-rs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3687,7 +3687,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "pola-rs/polars",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3696,11 +3696,11 @@
                     "id": 263727855,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T16:06:07Z",
-                    "open_issues": 2929,
+                    "last_commit": "2026-10-02T20:09:30Z",
+                    "open_issues": 2928,
                     "owner": "pola-rs",
                     "repo": "polars",
-                    "stars": 39911,
+                    "stars": 39914,
                     "topics": [
                       "arrow",
                       "dataframe",
@@ -3731,7 +3731,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "rrevenantt/antlr4rust",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3762,7 +3762,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "oli-obk/pandoc-ast",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3797,7 +3797,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "atroche/rust-headless-chrome",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3825,7 +3825,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "enigo-rs/enigo",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3861,7 +3861,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "obv-mikhail/InputBot",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3904,7 +3904,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "nashaofu/xcap",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3938,7 +3938,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "magiclen/execute",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3975,7 +3975,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "neuronika/neuronika",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4016,7 +4016,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "mozilla/cbindgen",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4044,7 +4044,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "PyO3/pyo3",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4053,8 +4053,8 @@
                     "id": 91151442,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T09:43:48Z",
-                    "open_issues": 407,
+                    "last_commit": "2026-10-02T19:33:04Z",
+                    "open_issues": 406,
                     "owner": "PyO3",
                     "repo": "pyo3",
                     "stars": 16198,
@@ -4085,7 +4085,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "QuantumBadger/Speedy2D",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4117,7 +4117,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "gfx-rs/wgpu",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4126,11 +4126,11 @@
                     "id": 148686316,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-01T19:16:15Z",
-                    "open_issues": 1264,
+                    "last_commit": "2026-10-03T00:17:05Z",
+                    "open_issues": 1261,
                     "owner": "gfx-rs",
                     "repo": "wgpu",
-                    "stars": 18171,
+                    "stars": 18172,
                     "topics": [
                       "d3d12",
                       "gpu",
@@ -4154,7 +4154,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "glium/glium",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4185,7 +4185,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "vulkano-rs/vulkano",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4219,7 +4219,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "nannou-org/nannou",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4249,7 +4249,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "jrmuizel/raqote",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4284,7 +4284,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "vectordotdev/vector",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4293,11 +4293,11 @@
                     "id": 146327667,
                     "language": "Rust",
                     "license": "MPL-2.0",
-                    "last_commit": "2026-10-02T16:43:44Z",
-                    "open_issues": 2495,
+                    "last_commit": "2026-10-02T23:44:19Z",
+                    "open_issues": 2488,
                     "owner": "vectordotdev",
                     "repo": "vector",
-                    "stars": 22659,
+                    "stars": 22661,
                     "topics": [
                       "agent",
                       "cloud-native",
@@ -4338,7 +4338,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "apache/dubbo-rust",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4359,7 +4359,7 @@
                 {
                   "node_type": "item",
                   "title": "中文文档",
-                  "description": null,
+                  "description": "apache/dubbo-rust",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4387,7 +4387,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "cloudwego/volo",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4400,7 +4400,7 @@
                     "open_issues": 54,
                     "owner": "cloudwego",
                     "repo": "volo",
-                    "stars": 2628,
+                    "stars": 2629,
                     "topics": [
                       "async",
                       "grpc",
@@ -4429,7 +4429,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "Rust-SDL2/rust-sdl2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4464,7 +4464,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "magiclen/educe",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4501,7 +4501,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "solana-labs/solana",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -4514,7 +4514,7 @@
                     "open_issues": 265,
                     "owner": "solana-labs",
                     "repo": "solana",
-                    "stars": 14940,
+                    "stars": 14941,
                     "topics": [
                       "bitcoin",
                       "blockchain",
@@ -4550,7 +4550,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "zed-industries/zed",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4559,11 +4559,11 @@
                     "id": 340547520,
                     "language": "Rust",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-02T16:17:02Z",
-                    "open_issues": 3067,
+                    "last_commit": "2026-10-03T05:04:13Z",
+                    "open_issues": 3058,
                     "owner": "zed-industries",
                     "repo": "zed",
-                    "stars": 91204,
+                    "stars": 91218,
                     "topics": [
                       "gpui",
                       "rust-lang",
@@ -4583,7 +4583,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "AppFlowy-IO/AppFlowy",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4593,10 +4593,10 @@
                     "language": "Dart",
                     "license": "AGPL-3.0",
                     "last_commit": "2026-10-01T03:32:57Z",
-                    "open_issues": 1028,
+                    "open_issues": 1031,
                     "owner": "AppFlowy-IO",
                     "repo": "AppFlowy",
-                    "stars": 77072,
+                    "stars": 77083,
                     "topics": [
                       "blog",
                       "confluence-alternative",
@@ -4624,7 +4624,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "lapce/lapce",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4633,11 +4633,11 @@
                     "id": 120425779,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T00:49:05Z",
+                    "last_commit": "2026-10-03T00:48:36Z",
                     "open_issues": 900,
                     "owner": "lapce",
                     "repo": "lapce",
-                    "stars": 38886,
+                    "stars": 38885,
                     "topics": [
                       "code-editor",
                       "developer-tools",
@@ -4658,7 +4658,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "neovide/neovide",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4671,7 +4671,7 @@
                     "open_issues": 300,
                     "owner": "neovide",
                     "repo": "neovide",
-                    "stars": 15248,
+                    "stars": 15250,
                     "topics": [
                       "gpu",
                       "neovim",
@@ -4692,7 +4692,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "helix-editor/helix",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4702,10 +4702,10 @@
                     "language": "Rust",
                     "license": "MPL-2.0",
                     "last_commit": "2026-09-29T02:36:33Z",
-                    "open_issues": 1701,
+                    "open_issues": 1706,
                     "owner": "helix-editor",
                     "repo": "helix",
-                    "stars": 46436,
+                    "stars": 46441,
                     "topics": [
                       "kakoune",
                       "rust",
@@ -4732,7 +4732,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "wezterm/wezterm",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4742,10 +4742,10 @@
                     "language": "Rust",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-29T02:33:49Z",
-                    "open_issues": 1900,
+                    "open_issues": 1901,
                     "owner": "wezterm",
                     "repo": "wezterm",
-                    "stars": 29096,
+                    "stars": 29100,
                     "topics": [
                       "rust",
                       "serial",
@@ -4774,7 +4774,7 @@
                 {
                   "node_type": "item",
                   "title": "仓库链接",
-                  "description": null,
+                  "description": "rustdesk/rustdesk",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4783,11 +4783,11 @@
                     "id": 299354207,
                     "language": "Rust",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-02T08:34:19Z",
-                    "open_issues": 168,
+                    "last_commit": "2026-10-02T22:51:34Z",
+                    "open_issues": 169,
                     "owner": "rustdesk",
                     "repo": "rustdesk",
-                    "stars": 125002,
+                    "stars": 125033,
                     "topics": [
                       "android",
                       "anydesk",
@@ -4829,7 +4829,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "gitui-org/gitui",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4842,7 +4842,7 @@
                     "open_issues": 348,
                     "owner": "gitui-org",
                     "repo": "gitui",
-                    "stars": 22541,
+                    "stars": 22543,
                     "topics": [
                       "async",
                       "bash",
@@ -4874,7 +4874,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "ekzhang/bore",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4887,7 +4887,7 @@
                     "open_issues": 18,
                     "owner": "ekzhang",
                     "repo": "bore",
-                    "stars": 11517,
+                    "stars": 11518,
                     "topics": [
                       "cli",
                       "localhost",
@@ -4918,7 +4918,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "ltoddy/cloc-rs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4953,7 +4953,7 @@
                 {
                   "node_type": "item",
                   "title": "仓库地址",
-                  "description": null,
+                  "description": "cnosdb/cnosdb",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4966,7 +4966,7 @@
                     "open_issues": 84,
                     "owner": "cnosdb",
                     "repo": "cnosdb",
-                    "stars": 1758,
+                    "stars": 1759,
                     "topics": [
                       "database",
                       "distributed-database",
@@ -4997,7 +4997,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "bottlerocket-os/bottlerocket",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5006,11 +5006,11 @@
                     "id": 179385712,
                     "language": "Rust",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-01T22:22:26Z",
-                    "open_issues": 202,
+                    "last_commit": "2026-10-02T21:31:31Z",
+                    "open_issues": 201,
                     "owner": "bottlerocket-os",
                     "repo": "bottlerocket",
-                    "stars": 9672,
+                    "stars": 9674,
                     "topics": [
                       "containers",
                       "linux",
@@ -5037,7 +5037,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "Starlight-JS/starlight",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5083,7 +5083,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "meilisearch/meilisearch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5096,7 +5096,7 @@
                     "open_issues": 323,
                     "owner": "meilisearch",
                     "repo": "meilisearch",
-                    "stars": 59465,
+                    "stars": 59473,
                     "topics": [
                       "ai",
                       "api",
@@ -5132,7 +5132,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "valeriansaliou/sonic",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5141,7 +5141,7 @@
                     "id": 172714919,
                     "language": "Rust",
                     "license": "MPL-2.0",
-                    "last_commit": "2026-10-01T19:35:40Z",
+                    "last_commit": "2026-10-03T01:57:33Z",
                     "open_issues": 63,
                     "owner": "valeriansaliou",
                     "repo": "sonic",
@@ -5178,7 +5178,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "bee-san/RustScan",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5218,7 +5218,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "GyulyVGC/sniffnet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5227,11 +5227,11 @@
                     "id": 519895363,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-01T17:54:25Z",
+                    "last_commit": "2026-10-03T03:13:45Z",
                     "open_issues": 63,
                     "owner": "GyulyVGC",
                     "repo": "sniffnet",
-                    "stars": 41317,
+                    "stars": 41316,
                     "topics": [
                       "app",
                       "application",
@@ -5274,7 +5274,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "biliup/biliup-rs",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -5313,7 +5313,7 @@
                 {
                   "node_type": "item",
                   "title": "代码仓库",
-                  "description": null,
+                  "description": "Borber/Tran",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5351,7 +5351,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:47:43.368Z",
+    "last_updated": "2026-10-03T05:04:28.543Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Rust (Rust 资源 | 学习 | 书 ). 💥",
