@@ -334,7 +334,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 | 导航                                                                                                    | 徽章                                                                                                                                                                                                               |
 | :---------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [ 在线文档 ](https://google.github.io/comprehensive-rust/)                                                | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgoogle.github.io%2Fcomprehensive-rust%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/google.github.io) |
-| [ 文档仓库 ](https://github.com/google/comprehensive-rust) ⭐ 33,400 \| 🐛 162 \| 🌐 Rust \| 📅 2026-10-05 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fgoogle%2Fcomprehensive-rust) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)       |
+| [ 文档仓库 ](https://github.com/google/comprehensive-rust) ⭐ 33,402 \| 🐛 162 \| 🌐 Rust \| 📅 2026-10-05 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fgoogle%2Fcomprehensive-rust) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)       |
 
 ### Rust 语言之旅
 
@@ -433,7 +433,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 | 导航                                                                                                  | 徽章                                                                                                                                                                                                        |
 | :-------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [ 在线文档 ](https://zh.practice.rs/why-exercise.html)                                                  | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fzh.practice.rs%2Fwhy-exercise.html) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/zh.practice.rs)  |
-| [ 文档仓库 ](https://github.com/sunface/rust-by-practice) ⭐ 14,786 \| 🐛 68 \| 🌐 Rust \| 📅 2026-08-24 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fsunface%2Frust-by-practice) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 文档仓库 ](https://github.com/sunface/rust-by-practice) ⭐ 14,784 \| 🐛 68 \| 🌐 Rust \| 📅 2026-08-24 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fsunface%2Frust-by-practice) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### Rust 算法题解
 
@@ -466,7 +466,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                                                                      | 徽章                                                                                                                                                                                                                                                                                             |
 | :-------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 文档仓库 ](https://github.com/QMHTMY/RustBook) ⭐ 2,996 \| 🐛 5 \| 🌐 Rust \| 📅 2024-07-21                                                | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FQMHTMY%2FRustBook) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)                                                                                               |
+| [ 文档仓库 ](https://github.com/QMHTMY/RustBook) ⭐ 2,995 \| 🐛 5 \| 🌐 Rust \| 📅 2024-07-21                                                | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FQMHTMY%2FRustBook) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)                                                                                               |
 | [ 在线文档 ](https://www.sejda.com/share/f71f6c36a72242649d5dd0b82c1ede74-z6Nih_rxggHzMXaWzNG6gEwmQ9MikrbmfygnukTf4ZjagPIlz-HuNbHsukdGz1xD) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.sejda.com%2Fshare%2Ff71f6c36a72242649d5dd0b82c1ede74-z6Nih_rxggHzMXaWzNG6gEwmQ9MikrbmfygnukTf4ZjagPIlz-HuNbHsukdGz1xD) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/www.sejda.com) |
 
 ### Rust 设计模式 中文版
@@ -538,7 +538,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                            | 徽章                                                                                                                                                                                                  |
 | :-------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 文档仓库 ](https://github.com/TheAlgorithms/Rust) ⭐ 26,076 \| 🐛 11 \| 🌐 Rust \| 📅 2026-09-11 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FTheAlgorithms%2FRust) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 文档仓库 ](https://github.com/TheAlgorithms/Rust) ⭐ 26,074 \| 🐛 11 \| 🌐 Rust \| 📅 2026-09-11 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FTheAlgorithms%2FRust) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### Rust RFC Book (提案书)
 
@@ -549,7 +549,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 | 导航                                                                                            | 徽章                                                                                                                                                                                                                        |
 | :-------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [ 在线文档 ](https://rust-lang.github.io/rfcs/introduction.html)                                  | ![Website](https://img.shields.io/website?url=https%3A%2F%2Frust-lang.github.io%2Frfcs%2Fintroduction.html) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/rust-lang.github.io) |
-| [ 文档仓库 ](https://github.com/rust-lang/rfcs) ⭐ 6,611 \| 🐛 794 \| 🌐 Markdown \| 📅 2026-10-05 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Frust-lang%2Frfcs) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)                           |
+| [ 文档仓库 ](https://github.com/rust-lang/rfcs) ⭐ 6,611 \| 🐛 795 \| 🌐 Markdown \| 📅 2026-10-05 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Frust-lang%2Frfcs) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)                           |
 
 ### Rust Unstable Book (不稳定特性书)
 
@@ -558,7 +558,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 | 导航                                                                                                                               | 徽章                                                                                                                                                                                                                                          |
 | :------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [ 在线文档 ](https://doc.rust-lang.org/nightly/unstable-book/index.html)                                                             | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fdoc.rust-lang.org%2Fnightly%2Funstable-book%2Findex.html) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/doc.rust-lang.org)           |
-| [ 文档仓库 ](https://github.com/rust-lang/rust/tree/master/src/doc/unstable-book) ⭐ 119,606 \| 🐛 12,643 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Frust-lang%2Frust%2Ftree%2Fmaster%2Fsrc%2Fdoc%2Funstable-book) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 文档仓库 ](https://github.com/rust-lang/rust/tree/master/src/doc/unstable-book) ⭐ 119,646 \| 🐛 12,649 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Frust-lang%2Frust%2Ftree%2Fmaster%2Fsrc%2Fdoc%2Funstable-book) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### Rust 版本指南
 
@@ -597,7 +597,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 ![stars](https://img.shields.io/github/stars/rust-lang-cn/cargo-cn?style=flat) ![GitHub](https://img.shields.io/github/license/rust-lang-cn/cargo-cn)
 
-> 本目录包含 Cargo 的文档，包含两部分，一是使用 [mdbook](https://github.com/rust-lang/mdBook) ⭐ 22,194 | 🐛 655 | 🌐 Rust | 📅 2026-10-05 构建的[《Cargo 手册》](https://doc.rust-lang.org/cargo/)，二是使用 [mdman](https://github.com/rust-lang/cargo/tree/master/crates/mdman/) ⭐ 15,555 | 🐛 1,677 | 🌐 Rust | 📅 2026-10-06 构建的帮助手册（man 手册）。
+> 本目录包含 Cargo 的文档，包含两部分，一是使用 [mdbook](https://github.com/rust-lang/mdBook) ⭐ 22,197 | 🐛 656 | 🌐 Rust | 📅 2026-10-05 构建的[《Cargo 手册》](https://doc.rust-lang.org/cargo/)，二是使用 [mdman](https://github.com/rust-lang/cargo/tree/master/crates/mdman/) ⭐ 15,558 | 🐛 1,676 | 🌐 Rust | 📅 2026-10-06 构建的帮助手册（man 手册）。
 
 | 导航                                                                                          | 徽章                                                                                                                                                                                                     |
 | :------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -673,7 +673,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                              | 徽章                                                                                                                                                                                                |
 | :---------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [ 代码仓库 ](https://github.com/tauri-apps/tauri) ⭐ 111,612 \| 🐛 1,485 \| 🌐 Rust \| 📅 2026-10-05 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Ftauri-apps%2Ftauri) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/tauri-apps/tauri) ⭐ 111,618 \| 🐛 1,484 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Ftauri-apps%2Ftauri) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 | [ 在线网站 ](https://tauri.app/zh/)                                                                 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Ftauri.app%2Fzh%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/tauri.app)                |
 
 #### egui
@@ -688,7 +688,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                                             | 徽章                                                                                                                                                                                                                                        |
 | :------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/emilk/egui) ⭐ 30,867 \| 🐛 1,035 \| 🌐 Rust \| 📅 2026-10-06                       | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Femilk%2Fegui) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)                                               |
+| [ 代码仓库 ](https://github.com/emilk/egui) ⭐ 30,885 \| 🐛 1,032 \| 🌐 Rust \| 📅 2026-10-06                       | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Femilk%2Fegui) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)                                               |
 | [ 中文文档 ](https://github.com/Re-Ch-Love/egui-doc-cn/blob/main/README_zh-hans.md) ⭐ 100 \| 🐛 0 \| 📅 2026-08-14 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FRe-Ch-Love%2Fegui-doc-cn%2Fblob%2Fmain%2FREADME_zh-hans.md) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### fltk-rs
@@ -700,7 +700,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                            | 徽章                                                                                                                                                                                                        |
 | :-------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/fltk-rs/fltk-rs) ⭐ 1,856 \| 🐛 14 \| 🌐 Rust \| 📅 2026-05-19     | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Ffltk-rs%2Ffltk-rs) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)          |
+| [ 代码仓库 ](https://github.com/fltk-rs/fltk-rs) ⭐ 1,857 \| 🐛 14 \| 🌐 Rust \| 📅 2026-05-19     | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Ffltk-rs%2Ffltk-rs) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)          |
 | [ 在线文档 ](https://fltk-rs.github.io/fltk-book/)                                                | ![Website](https://img.shields.io/website?url=https%3A%2F%2Ffltk-rs.github.io%2Ffltk-book%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/fltk-rs.github.io) |
 | [ 中文文档 ](https://github.com/Flatigers/fltk-book-zh) ⭐ 17 \| 🐛 0 \| 🌐 Shell \| 📅 2024-05-07 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FFlatigers%2Ffltk-book-zh) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)   |
 
@@ -712,7 +712,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                       | 徽章                                                                                                                                                                                            |
 | :--------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/iced-rs/iced) ⭐ 31,677 \| 🐛 504 \| 🌐 Rust \| 📅 2026-10-05 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Ficed-rs%2Ficed) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/iced-rs/iced) ⭐ 31,680 \| 🐛 504 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Ficed-rs%2Ficed) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### xilem
 
@@ -722,7 +722,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                          | 徽章                                                                                                                                                                                                |
 | :------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [ 代码仓库 ](https://github.com/linebender/xilem) ⭐ 5,554 \| 🐛 158 \| 🌐 Rust \| 📅 2026-09-14 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Flinebender%2Fxilem) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/linebender/xilem) ⭐ 5,556 \| 🐛 159 \| 🌐 Rust \| 📅 2026-09-14 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Flinebender%2Fxilem) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### ⛔️ druid
 
@@ -757,8 +757,8 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                                                              | 徽章                                                                                                                                                                                                                                             |
 | :------------------------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/DioxusLabs/dioxus) ⭐ 39,326 \| 🐛 817 \| 🌐 Rust \| 📅 2026-10-03                                   | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FDioxusLabs%2Fdioxus) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)                                             |
-| [ 中文文档 ](https://github.com/DioxusLabs/dioxus/blob/master/notes/README/ZH_CN.md) ⭐ 39,326 \| 🐛 817 \| 🌐 Rust \| 📅 2026-10-03 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FDioxusLabs%2Fdioxus%2Fblob%2Fmaster%2Fnotes%2FREADME%2FZH_CN.md) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/DioxusLabs/dioxus) ⭐ 39,330 \| 🐛 817 \| 🌐 Rust \| 📅 2026-10-03                                   | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FDioxusLabs%2Fdioxus) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)                                             |
+| [ 中文文档 ](https://github.com/DioxusLabs/dioxus/blob/master/notes/README/ZH_CN.md) ⭐ 39,330 \| 🐛 817 \| 🌐 Rust \| 📅 2026-10-03 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FDioxusLabs%2Fdioxus%2Fblob%2Fmaster%2Fnotes%2FREADME%2FZH_CN.md) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### Vizia
 
@@ -787,7 +787,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                         | 徽章                                                                                                                                                                                              |
 | :----------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/slint-ui/slint) ⭐ 24,079 \| 🐛 825 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fslint-ui%2Fslint) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/slint-ui/slint) ⭐ 24,085 \| 🐛 831 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fslint-ui%2Fslint) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 | [ 官方网站 ](https://slint-ui.com/)                                                            | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fslint-ui.com%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/slint-ui.com)             |
 
 ### TUI
@@ -802,7 +802,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                              | 徽章                                                                                                                                                                                                   |
 | :---------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/ratatui-org/ratatui) ⭐ 22,877 \| 🐛 202 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fratatui-org%2Fratatui) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/ratatui-org/ratatui) ⭐ 22,882 \| 🐛 202 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fratatui-org%2Fratatui) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 | [ 在线文档 ](https://ratatui.rs/)                                                                   | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fratatui.rs%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/ratatui.rs)                      |
 
 #### ⛔️ tui-rs
@@ -837,7 +837,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                            | 徽章                                                                                                                                                                                               |
 | :-------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/bevyengine/bevy) ⭐ 48,650 \| 🐛 3,424 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fbevyengine%2Fbevy) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/bevyengine/bevy) ⭐ 48,657 \| 🐛 3,427 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fbevyengine%2Fbevy) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### tetra
 
@@ -869,9 +869,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                                                              | 徽章                                                                                                                                                                                                                                        |
 | :------------------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/tokio-rs/tokio) ⭐ 33,344 \| 🐛 454 \| 🌐 Rust \| 📅 2026-10-04                                      | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Ftokio-rs%2Ftokio) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)                                           |
+| [ 代码仓库 ](https://github.com/tokio-rs/tokio) ⭐ 33,347 \| 🐛 454 \| 🌐 Rust \| 📅 2026-10-04                                      | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Ftokio-rs%2Ftokio) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)                                           |
 | [ 在线网站 ](https://tokio.rs/)                                                                                                     | ![Website](https://img.shields.io/website?url=https%3A%2F%2Ftokio.rs%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/tokio.rs)                                                               |
-| [ 中文文档 ](https://github.com/rustlang-cn/Rustt/tree/main/Books/Tokio-Tutorial) ⭐ 1,771 \| 🐛 0 \| 🌐 TypeScript \| 📅 2026-06-22 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Frustlang-cn%2FRustt%2Ftree%2Fmain%2FBooks%2FTokio-Tutorial) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 中文文档 ](https://github.com/rustlang-cn/Rustt/tree/main/Books/Tokio-Tutorial) ⭐ 1,770 \| 🐛 0 \| 🌐 TypeScript \| 📅 2026-06-22 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Frustlang-cn%2FRustt%2Ftree%2Fmain%2FBooks%2FTokio-Tutorial) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 前端相关
 
@@ -894,7 +894,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                           | 徽章                                                                                                                                                                                             |
 | :------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/denoland/deno) ⭐ 108,668 \| 🐛 1,665 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fdenoland%2Fdeno) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/denoland/deno) ⭐ 108,686 \| 🐛 1,665 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fdenoland%2Fdeno) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### SWC
 
@@ -906,7 +906,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                          | 徽章                                                                                                                                                                                               |
 | :------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/swc-project/swc) ⭐ 34,210 \| 🐛 394 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fswc-project%2Fswc) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/swc-project/swc) ⭐ 34,212 \| 🐛 394 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fswc-project%2Fswc) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### Parcel
 
@@ -916,7 +916,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                                      | 徽章                                                                                                                                                                                                     |
 | :------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/parcel-bundler/parcel) ⭐ 44,017 \| 🐛 609 \| 🌐 JavaScript \| 📅 2026-09-29 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fparcel-bundler%2Fparcel) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/parcel-bundler/parcel) ⭐ 44,016 \| 🐛 609 \| 🌐 JavaScript \| 📅 2026-09-29 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fparcel-bundler%2Fparcel) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### Rome
 
@@ -942,7 +942,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                         | 徽章                                                                                                                                                                                               |
 | :----------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/napi-rs/napi-rs) ⭐ 7,962 \| 🐛 268 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fnapi-rs%2Fnapi-rs) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/napi-rs/napi-rs) ⭐ 7,963 \| 🐛 271 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fnapi-rs%2Fnapi-rs) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### Lightning CSS
 
@@ -954,7 +954,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                                     | 徽章                                                                                                                                                                                                           |
 | :----------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/parcel-bundler/lightningcss) ⭐ 7,695 \| 🐛 422 \| 🌐 Rust \| 📅 2026-09-29 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fparcel-bundler%2Flightningcss) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/parcel-bundler/lightningcss) ⭐ 7,696 \| 🐛 422 \| 🌐 Rust \| 📅 2026-09-29 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fparcel-bundler%2Flightningcss) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### WebAssembly
 
@@ -966,7 +966,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                                    | 徽章                                                                                                                                                                                                         |
 | :---------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/bytecodealliance/wasmtime) ⭐ 18,689 \| 🐛 842 \| 🌐 Rust \| 📅 2026-10-05 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fbytecodealliance%2Fwasmtime) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/bytecodealliance/wasmtime) ⭐ 18,692 \| 🐛 854 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fbytecodealliance%2Fwasmtime) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### wasmer
 
@@ -976,7 +976,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                          | 徽章                                                                                                                                                                                               |
 | :------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/wasmerio/wasmer) ⭐ 21,127 \| 🐛 282 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fwasmerio%2Fwasmer) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/wasmerio/wasmer) ⭐ 21,130 \| 🐛 281 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fwasmerio%2Fwasmer) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### WasmEdge
 
@@ -988,7 +988,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                           | 徽章                                                                                                                                                                                                 |
 | :------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/WasmEdge/WasmEdge) ⭐ 10,818 \| 🐛 149 \| 🌐 C++ \| 📅 2026-10-05 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FWasmEdge%2FWasmEdge) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/WasmEdge/WasmEdge) ⭐ 10,818 \| 🐛 147 \| 🌐 C++ \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FWasmEdge%2FWasmEdge) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### WASI
 
@@ -1013,7 +1013,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                            | 徽章                                                                                                                                                                                                  |
 | :-------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/libp2p/rust-libp2p) ⭐ 5,617 \| 🐛 302 \| 🌐 Rust \| 📅 2026-10-05 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Flibp2p%2Frust-libp2p) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/libp2p/rust-libp2p) ⭐ 5,619 \| 🐛 302 \| 🌐 Rust \| 📅 2026-10-05 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Flibp2p%2Frust-libp2p) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### rathole
 
@@ -1021,12 +1021,12 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 安全、稳定、高性能的内网穿透工具，用 Rust 语言编写
 >
-> rathole，类似于 [frp](https://github.com/fatedier/frp) ⭐ 109,758 | 🐛 45 | 🌐 Go | 📅 2026-09-15 和 [ngrok](https://github.com/inconshreveable/ngrok) ⚠️ Archived，可以让 NAT 后的设备上的服务通过具有公网 IP 的服务器暴露在公网上。
+> rathole，类似于 [frp](https://github.com/fatedier/frp) ⭐ 109,760 | 🐛 45 | 🌐 Go | 📅 2026-09-15 和 [ngrok](https://github.com/inconshreveable/ngrok) ⚠️ Archived，可以让 NAT 后的设备上的服务通过具有公网 IP 的服务器暴露在公网上。
 
 | 导航                                                                                                               | 徽章                                                                                                                                                                                                                           |
 | :--------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/rapiz1/rathole) ⭐ 14,299 \| 🐛 98 \| 🌐 Rust \| 📅 2026-08-23                        | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Frapiz1%2Frathole) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)                              |
-| [ 中文文档 ](https://github.com/rapiz1/rathole/blob/main/README-zh.md) ⭐ 14,299 \| 🐛 98 \| 🌐 Rust \| 📅 2026-08-23 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Frapiz1%2Frathole%2Fblob%2Fmain%2FREADME-zh.md) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/rapiz1/rathole) ⭐ 14,302 \| 🐛 98 \| 🌐 Rust \| 📅 2026-08-23                        | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Frapiz1%2Frathole) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)                              |
+| [ 中文文档 ](https://github.com/rapiz1/rathole/blob/main/README-zh.md) ⭐ 14,302 \| 🐛 98 \| 🌐 Rust \| 📅 2026-08-23 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Frapiz1%2Frathole%2Fblob%2Fmain%2FREADME-zh.md) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### Crust
 
@@ -1109,7 +1109,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                       | 徽章                                                                                                                                                                                             |
 | :--------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/poem-web/poem) ⭐ 4,445 \| 🐛 183 \| 🌐 Rust \| 📅 2026-10-05 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fpoem-web%2Fpoem) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/poem-web/poem) ⭐ 4,445 \| 🐛 182 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fpoem-web%2Fpoem) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### axum
 
@@ -1119,7 +1119,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                       | 徽章                                                                                                                                                                                             |
 | :--------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/tokio-rs/axum) ⭐ 27,390 \| 🐛 85 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Ftokio-rs%2Faxum) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/tokio-rs/axum) ⭐ 27,393 \| 🐛 85 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Ftokio-rs%2Faxum) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### Salvo
 
@@ -1129,7 +1129,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                       | 徽章                                                                                                                                                                                              |
 | :--------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/salvo-rs/salvo) ⭐ 4,438 \| 🐛 23 \| 🌐 Rust \| 📅 2026-10-04 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fsalvo-rs%2Fsalvo) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/salvo-rs/salvo) ⭐ 4,437 \| 🐛 23 \| 🌐 Rust \| 📅 2026-10-04 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fsalvo-rs%2Fsalvo) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 序列化
 
@@ -1184,7 +1184,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                        | 徽章                                                                                                                                                                                               |
 | :---------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/tafia/quick-xml) ⭐ 1,569 \| 🐛 91 \| 🌐 Rust \| 📅 2026-09-02 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Ftafia%2Fquick-xml) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/tafia/quick-xml) ⭐ 1,570 \| 🐛 91 \| 🌐 Rust \| 📅 2026-09-02 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Ftafia%2Fquick-xml) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### musli
 
@@ -1210,9 +1210,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Rust 的 rocketmq 实现。
 
-| 导航                                                                                           | 徽章                                                                                                                                                                                                  |
-| :------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/mxsm/rocketmq-rust) ⭐ 1,523 \| 🐛 10 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmxsm%2Frocketmq-rust) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| 导航                                                                                          | 徽章                                                                                                                                                                                                  |
+| :------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/mxsm/rocketmq-rust) ⭐ 1,523 \| 🐛 7 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmxsm%2Frocketmq-rust) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 配置解析
 
@@ -1224,7 +1224,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                           | 徽章                                                                                                                                                                                                 |
 | :------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/mehcode/config-rs) ⭐ 3,214 \| 🐛 141 \| 🌐 Rust \| 📅 2026-10-04 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmehcode%2Fconfig-rs) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/mehcode/config-rs) ⭐ 3,214 \| 🐛 141 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmehcode%2Fconfig-rs) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 日期处理
 
@@ -1236,7 +1236,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                     | 徽章                                                                                                                                                                                            |
 | :------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/time-rs/time) ⭐ 1,339 \| 🐛 12 \| 🌐 Rust \| 📅 2026-10-04 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Ftime-rs%2Ftime) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/time-rs/time) ⭐ 1,340 \| 🐛 12 \| 🌐 Rust \| 📅 2026-10-04 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Ftime-rs%2Ftime) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### chrono
 
@@ -1246,7 +1246,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                           | 徽章                                                                                                                                                                                                 |
 | :------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/chronotope/chrono) ⭐ 3,918 \| 🐛 194 \| 🌐 Rust \| 📅 2026-09-07 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fchronotope%2Fchrono) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/chronotope/chrono) ⭐ 3,920 \| 🐛 194 \| 🌐 Rust \| 📅 2026-09-07 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fchronotope%2Fchrono) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### httpdate
 
@@ -1338,7 +1338,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                       | 徽章                                                                                                                                                                                             |
 | :--------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/SeaQL/sea-orm) ⭐ 9,915 \| 🐛 230 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FSeaQL%2Fsea-orm) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/SeaQL/sea-orm) ⭐ 9,914 \| 🐛 231 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FSeaQL%2Fsea-orm) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### rbatis
 
@@ -1374,7 +1374,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                                  | 徽章                                                                                                                                                                                                         |
 | :-------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/mongodb/mongo-rust-driver) ⭐ 1,517 \| 🐛 12 \| 🌐 Rust \| 📅 2026-10-05 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmongodb%2Fmongo-rust-driver) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/mongodb/mongo-rust-driver) ⭐ 1,517 \| 🐛 14 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmongodb%2Fmongo-rust-driver) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### wither
 
@@ -1396,9 +1396,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Redis-rs 是 Rust 的高级 redis 库。它通过非常灵活但低级的 API 提供对所有 Redis 功能的便捷访问。它使用可自定义的类型转换特征，因此任何操作都可以返回您期望的类型的结果。这带来了非常愉快的开发体验。
 
-| 导航                                                                                           | 徽章                                                                                                                                                                                                 |
-| :------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/redis-rs/redis-rs) ⭐ 4,258 \| 🐛 106 \| 🌐 Rust \| 📅 2026-10-05 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fredis-rs%2Fredis-rs) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| 导航                                                                                          | 徽章                                                                                                                                                                                                 |
+| :------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/redis-rs/redis-rs) ⭐ 4,258 \| 🐛 99 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fredis-rs%2Fredis-rs) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### r2d2
 
@@ -1440,7 +1440,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                     | 徽章                                                                                                                                                                                           |
 | :------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/georust/geo) ⭐ 1,940 \| 🐛 133 \| 🌐 Rust \| 📅 2026-09-30 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fgeorust%2Fgeo) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/georust/geo) ⭐ 1,941 \| 🐛 134 \| 🌐 Rust \| 📅 2026-09-30 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fgeorust%2Fgeo) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 图片处理
 
@@ -1453,7 +1453,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                        | 徽章                                                                                                                                                                                              |
 | :---------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/image-rs/image) ⭐ 5,887 \| 🐛 232 \| 🌐 Rust \| 📅 2026-09-15 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fimage-rs%2Fimage) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/image-rs/image) ⭐ 5,887 \| 🐛 233 \| 🌐 Rust \| 📅 2026-09-15 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fimage-rs%2Fimage) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 音频处理
 
@@ -1481,7 +1481,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                            | 徽章                                                                                                                                                                                                   |
 | :-------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/pdeljanov/Symphonia) ⭐ 3,426 \| 🐛 93 \| 🌐 Rust \| 📅 2026-08-13 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fpdeljanov%2FSymphonia) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/pdeljanov/Symphonia) ⭐ 3,425 \| 🐛 93 \| 🌐 Rust \| 📅 2026-08-13 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fpdeljanov%2FSymphonia) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 视频处理
 
@@ -1525,7 +1525,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                       | 徽章                                                                                                                                                                                              |
 | :--------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/tafia/calamine) ⭐ 2,443 \| 🐛 53 \| 🌐 Rust \| 📅 2026-09-02 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Ftafia%2Fcalamine) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/tafia/calamine) ⭐ 2,444 \| 🐛 53 \| 🌐 Rust \| 📅 2026-09-02 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Ftafia%2Fcalamine) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### docx-rs
 
@@ -1547,7 +1547,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                           | 徽章                                                                                                                                                                                              |
 | :------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/pola-rs/polars) ⭐ 39,921 \| 🐛 2,934 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fpola-rs%2Fpolars) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/pola-rs/polars) ⭐ 39,944 \| 🐛 2,942 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fpola-rs%2Fpolars) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### AST
 
@@ -1662,7 +1662,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                         | 徽章                                                                                                                                                                                               |
 | :----------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/eqrion/cbindgen) ⭐ 2,960 \| 🐛 277 \| 🌐 Rust \| 📅 2026-08-22 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Feqrion%2Fcbindgen) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/eqrion/cbindgen) ⭐ 2,959 \| 🐛 278 \| 🌐 Rust \| 📅 2026-08-22 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Feqrion%2Fcbindgen) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### PyO3
 
@@ -1672,7 +1672,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                    | 徽章                                                                                                                                                                                         |
 | :------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/PyO3/PyO3) ⭐ 16,202 \| 🐛 403 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FPyO3%2FPyO3) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/PyO3/PyO3) ⭐ 16,205 \| 🐛 403 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FPyO3%2FPyO3) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 图形渲染
 
@@ -1694,7 +1694,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                        | 徽章                                                                                                                                                                                           |
 | :---------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/gfx-rs/wgpu) ⭐ 18,203 \| 🐛 1,269 \| 🌐 Rust \| 📅 2026-10-05 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fgfx-rs%2Fwgpu) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/gfx-rs/wgpu) ⭐ 18,212 \| 🐛 1,272 \| 🌐 Rust \| 📅 2026-10-05 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fgfx-rs%2Fwgpu) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### glium
 
@@ -1752,7 +1752,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                                | 徽章                                                                                                                                                                                                   |
 | :------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/vectordotdev/vector) ⭐ 22,671 \| 🐛 2,495 \| 🌐 Rust \| 📅 2026-10-05 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fvectordotdev%2Fvector) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/vectordotdev/vector) ⭐ 22,673 \| 🐛 2,493 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fvectordotdev%2Fvector) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### RPC 库
 
@@ -1775,7 +1775,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                       | 徽章                                                                                                                                                                                              |
 | :--------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/cloudwego/volo) ⭐ 2,630 \| 🐛 54 \| 🌐 Rust \| 📅 2026-09-30 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fcloudwego%2Fvolo) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/cloudwego/volo) ⭐ 2,629 \| 🐛 54 \| 🌐 Rust \| 📅 2026-09-30 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fcloudwego%2Fvolo) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### SDL
 
@@ -1836,7 +1836,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                               | 徽章                                                                                                                                                                                                  |
 | :----------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/zed-industries/zed) ⭐ 91,343 \| 🐛 3,070 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fzed-industries%2Fzed) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/zed-industries/zed) ⭐ 91,359 \| 🐛 3,063 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fzed-industries%2Fzed) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 | [ 官方网站 ](https://zed.dev/)                                                                       | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fzed.dev%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/zed.dev)                           |
 
 #### AppFlowy
@@ -1849,7 +1849,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                                 | 徽章                                                                                                                                                                                                    |
 | :------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/AppFlowy-IO/AppFlowy) ⭐ 77,159 \| 🐛 1,033 \| 🌐 Dart \| 📅 2026-10-01 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FAppFlowy-IO%2FAppFlowy) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/AppFlowy-IO/AppFlowy) ⭐ 77,165 \| 🐛 1,034 \| 🌐 Dart \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FAppFlowy-IO%2FAppFlowy) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### Lapce
 
@@ -1863,7 +1863,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                      | 徽章                                                                                                                                                                                           |
 | :-------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/lapce/lapce) ⭐ 38,900 \| 🐛 900 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Flapce%2Flapce) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/lapce/lapce) ⭐ 38,901 \| 🐛 900 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Flapce%2Flapce) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### Neovide
 
@@ -1875,7 +1875,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                          | 徽章                                                                                                                                                                                               |
 | :------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/neovide/neovide) ⭐ 15,255 \| 🐛 300 \| 🌐 Rust \| 📅 2026-09-29 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fneovide%2Fneovide) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/neovide/neovide) ⭐ 15,256 \| 🐛 300 \| 🌐 Rust \| 📅 2026-09-29 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fneovide%2Fneovide) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### Helix
 
@@ -1888,7 +1888,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                               | 徽章                                                                                                                                                                                                  |
 | :----------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/helix-editor/helix) ⭐ 46,483 \| 🐛 1,713 \| 🌐 Rust \| 📅 2026-09-29 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fhelix-editor%2Fhelix) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/helix-editor/helix) ⭐ 46,485 \| 🐛 1,714 \| 🌐 Rust \| 📅 2026-09-29 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fhelix-editor%2Fhelix) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 终端
 
@@ -1900,7 +1900,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                        | 徽章                                                                                                                                                                                           |
 | :---------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/wez/wezterm) ⭐ 29,138 \| 🐛 1,900 \| 🌐 Rust \| 📅 2026-10-05 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fwez%2Fwezterm) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/wez/wezterm) ⭐ 29,139 \| 🐛 1,900 \| 🌐 Rust \| 📅 2026-10-05 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fwez%2Fwezterm) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 远程控制
 
@@ -1914,7 +1914,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                             | 徽章                                                                                                                                                                                                 |
 | :--------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 仓库链接 ](https://github.com/rustdesk/rustdesk) ⭐ 125,229 \| 🐛 180 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Frustdesk%2Frustdesk) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 仓库链接 ](https://github.com/rustdesk/rustdesk) ⭐ 125,266 \| 🐛 182 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Frustdesk%2Frustdesk) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### Git 工具
 
@@ -1924,11 +1924,11 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > GitUI 为您提供了 git GUI 的舒适性，但就在您的终端上.
 >
-> [![img](https://github.com/extrawurst/gitui/raw/master/demo.gif)](https://github.com/extrawurst/gitui/blob/master/demo.gif) ⭐ 22,547 | 🐛 346 | 🌐 Rust | 📅 2026-10-06
+> [![img](https://github.com/extrawurst/gitui/raw/master/demo.gif)](https://github.com/extrawurst/gitui/blob/master/demo.gif) ⭐ 22,548 | 🐛 346 | 🌐 Rust | 📅 2026-10-06
 
 | 导航                                                                                           | 徽章                                                                                                                                                                                                |
 | :------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [ 代码仓库 ](https://github.com/extrawurst/gitui) ⭐ 22,547 \| 🐛 346 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fextrawurst%2Fgitui) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/extrawurst/gitui) ⭐ 22,548 \| 🐛 346 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fextrawurst%2Fgitui) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 内网穿透
 
@@ -1940,7 +1940,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                      | 徽章                                                                                                                                                                                            |
 | :-------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/ekzhang/bore) ⭐ 11,525 \| 🐛 18 \| 🌐 Rust \| 📅 2026-02-04 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fekzhang%2Fbore) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/ekzhang/bore) ⭐ 11,526 \| 🐛 18 \| 🌐 Rust \| 📅 2026-02-04 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fekzhang%2Fbore) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 代码分析
 
@@ -1976,7 +1976,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                                      | 徽章                                                                                                                                                                                                            |
 | :------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [ 代码仓库 ](https://github.com/bottlerocket-os/bottlerocket) ⭐ 9,674 \| 🐛 201 \| 🌐 Rust \| 📅 2026-10-02 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fbottlerocket-os%2Fbottlerocket) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/bottlerocket-os/bottlerocket) ⭐ 9,675 \| 🐛 201 \| 🌐 Rust \| 📅 2026-10-02 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fbottlerocket-os%2Fbottlerocket) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 编译器
 
@@ -2003,7 +2003,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 | 导航                                                                                                  | 徽章                                                                                                                                                                                                                                            |
 | :-------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [ 文档仓库 ](https://docs.meilisearch.com/learn/getting_started/quick_start.html)                       | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fdocs.meilisearch.com%2Flearn%2Fgetting_started%2Fquick_start.html) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/docs.meilisearch.com) |
-| [ 代码仓库 ](https://github.com/meilisearch/MeiliSearch) ⭐ 59,500 \| 🐛 322 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmeilisearch%2FMeiliSearch) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)                                      |
+| [ 代码仓库 ](https://github.com/meilisearch/MeiliSearch) ⭐ 59,505 \| 🐛 321 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmeilisearch%2FMeiliSearch) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)                                      |
 
 #### sonic
 
@@ -2027,7 +2027,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                           | 徽章                                                                                                                                                                                                 |
 | :------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/RustScan/RustScan) ⭐ 20,508 \| 🐛 16 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FRustScan%2FRustScan) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/RustScan/RustScan) ⭐ 20,509 \| 🐛 16 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FRustScan%2FRustScan) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### sniffnet
 
@@ -2037,7 +2037,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                                                                           | 徽章                                                                                                                                                                                                 |
 | :------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ 代码仓库 ](https://github.com/GyulyVGC/sniffnet) ⭐ 41,344 \| 🐛 61 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FGyulyVGC%2Fsniffnet) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 代码仓库 ](https://github.com/GyulyVGC/sniffnet) ⭐ 41,347 \| 🐛 61 \| 🌐 Rust \| 📅 2026-10-06 | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FGyulyVGC%2Fsniffnet) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 视频工具
 
